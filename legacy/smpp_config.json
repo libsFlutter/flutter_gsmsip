@@ -1,0 +1,9 @@
+{
+  "host": "localhost",
+  "port": 2775,
+  "systemId": "test",
+  "password": "test",
+  "systemType": "",
+  "testNumber": "+1234567890",
+  "testMessage": "Тестовое SMS сообщение от SMPP Gateway"
+}

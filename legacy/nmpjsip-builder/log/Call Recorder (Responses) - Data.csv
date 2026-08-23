@@ -1,0 +1,688 @@
+Timestamp,Quality,Manufacturer,Phone Model,OS,Rooted,Baseband version,Source,Encoder,Application Location,Version,User Message
+0,Voice Line Quality,unknown,Android SDK built for x86_64,Emulator,,,,,,,- Emulator works fine!
+0,Voice Line Quality,unknown,Android SDK built for x86,Emulator,,,,,,,- Emulator works fine!
+0,Low Bandwidth Opponent Side,LGE,Nexus 5X,"3.10.73-lineageos-gcdc93dc, 14.1-20180205-NIGHTLY-bullhead, Android: 7.1.2",Yes,M8994F-2.6.37.2.21,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.5.28,"- No opponent side unless rooted
+- If rooted, can record low bandidth only opponent side."
+2/7/2018 2:22:31,Voice Line Quality,motorola,Nexus 6,"3.10.40-g0f791f8, 14.1-20180202-NIGHTLY-shamu, Android: 7.1.2",Yes,MDM9625_104670.31.05.51R,Auto (default),"3gp, aac",User Installed,1.5.29,Thank you so much!
+2/8/2018 4:31:23,Voice Line Quality,Samsumg,Galaxy S5,Lineage 14.1,No,G900FXXU1POH1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.5.25,
+2/8/2018 4:33:00,Voice Line Quality,OnePlus,ONEPLUS A3003 = 3T,"3.18.31-perf , Android: 7.1.1, OxygenOS 4.1.3",No,MPSS.TH.2.0.c1.9-00102-M8996FAAAANAZM-1.88834.1.89286.1,Auto (default),"3gp, aac",User Installed,1.5.29,"Survey's answer options for first questions are a bit unclear.
+
+I'm using AAC encodec b/c storage estimate was best.
+
+Recording seems to start second or couple after I answer call.
+
+Reasons I use this program are: no ads, required permissions (no need for network, etc.), available options, open source.
+
+Add help for file name custom format. I had to search %X-""variables"" from sourcecode. It was ok for me, but not for normal user.
+
+Could you keep also few older change logs visible in play store? Version number and changes in that version.
+
+If things keep working like now, I could consider a donation :)"
+2/8/2018 11:26:48,Voice Line Quality,Alcatel (TCL),OT-6039Y,5.0.2,Yes,M8916AAAAANLYD2020513.1,Auto (default),"3gp, aac",User Installed,1.5.24,Works as well as Skvalex CR but free of charge. Thanks a lot to developer.This app one of two app that works on my devices.
+2/8/2018 11:47:30,Voice Line Quality,Samsung,GT-I9100,4.1.2,Yes,I9100XXMS2,Auto (default),"3gp, aac",User Installed,1.5.24,Works as well as Skvalex CR but free of charge. Thanks a lot to developer. This app one of two app that works on my devices.
+2/8/2018 23:13:26,Voice Line Quality,LGE,G6 H870DS,7.0 stock,No,MPSS.TH.2.0.c3.1-00018-M8996FAAAANAZM-1.115847,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.5.24,"Sound is very low (not enough gain ? ), but good quality (22k)"
+2/14/2018 12:22:10,Voice Line Quality,Micromax,Micromax A310,"3.4.67, Android: 4.4.2",No,"MOLY.WR8.W1315.MD.WG.MP.V35, 2014/06/30 15:14",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.5.29,
+2/14/2018 14:49:27,Voice Line Quality,xiaomi,Redmi Note 3 SE,"3.10.105, Android: 7.1.2",Yes,976_GEN_PACK-1.103654.1.105572.1,Auto (default),"3gp, aac",User Installed,1.5.29,The best app ever! Thank you!
+2/16/2018 12:24:23,No Opponent Side,LG,LG-D820 (nexus 5 north america),android 6.0.1,No,USA /canada model,Auto (default),"ogg, wav, flac, m4a, mp3, opus",System Preinstalled,1.4.14,"On google nexus 5 boutgh in canada and up to date, non rooted, conversation is only recorded for my side"
+2/17/2018 10:28:10,Opponent sound is very quiet,motorola,XT1580,"3.10.84-perf-ge1ecd45, Android: 7.0",No,M8994_1255341.44.01.95.02R KINZIE_EMEA_CUST,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.5.29,
+2/18/2018 6:01:12,Voice Line Quality,Fairphone,FP2,LineageOS,Yes,4437.1-FP2-0-07,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.5.29,"The app starts with a dialogue asking me to enable/disable 4 options (starting with Call Recordings Support) but the ok-button (/text) stays grey (/disabled) and cannot be clicked, no matter which options I disable or enable. So the dialogue never dissappears."
+2/20/2018 17:32:07,No Opponent Side,Lenovo,Moto G5,Android 7.0,Yes,no idea,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.5.32,
+2/20/2018 22:29:03,Voice Line Quality,Vernee,Active,VOS 1.0.0.,No,Vernee Active,Voice Line,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.5.32,Will Call Recorder with VOS 1.0.0 ( based on Android 7 ) work on Vernee Active phone?
+2/21/2018 22:30:11,No Opponent Side,motorola,PHOTON Q,"3.0.101-g6897514, 14.1-20170707-port ilichva-xt907_jbbl, Android: 7.1.2",Yes,VANQUISH_U_BP_100700.220.65.33P,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.5.32,
+2/25/2018 13:39:01,Mic Quality,OnePlus,A0001,"3.4.113-lineageos-gbe73925, 14.1-20180220-NIGHTLY-bacon, Android: 7.1.2",Yes,DI.3.0.c6-00241-M8974AAAAANAZM-1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.5.32,Other side is too low. Can we get option to select and delete multiple recordings
+2/26/2018 22:43:12,Voice Line Quality,LENOVO,Lenovo A2010-a,"3.10.65, Android: 5.1",No,"MOLY.LR9.W1444.MD.LWTG.MP.V8.P31, 2016/03/01 11:13",Voice Line,"ogg, wav, flac, m4a, mp3, opus",System Preinstalled,1.5.32,
+2/28/2018 0:12:18,Voice Line Quality,samsung,SM-J730F,"3.18.14-11460356, Android: 7.0",No,J730FXXU1AQF1,Auto (default),"3gp, aac",User Installed,1.5.32,
+2/28/2018 2:31:06,Voice Line Quality,samsung,GT-I8160(P/L),"3.0.31-A2N-gd9b52b8d, 11-20171230-UNOFFICIAL-codinap, Android: 4.4.4",Yes,I8160XXNF2,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.5.32,Other side is too low.
+2/28/2018 12:12:53,Voice Line Quality,OnePlus,ONEPLUS A3003,"3.18.71-lineageos-g810c3ee, Android: 8.1.0",Yes,MPSS.TH.2.0.c1.9-00102-M8996FAAAANAZM-1.99649.1.118107.1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.5.32,Help for file name metacharacters.
+2/28/2018 22:35:14,هردوطرف,samsung,SM-G610F,"3.18.14-12721818, Android: 7.0",No,G610FDDU1BQJ4,Auto (default),"3gp, aac",User Installed,1.5.32,"ضبط صدا
+"
+3/2/2018 4:55:58,Voice Line Quality,Xiaomi,Redmi Note 3,"3.10.105-lineageos-g92430f1, 14.1-20180221-NIGHTLY-kenzo, Android: 7.1.2",Yes,976_GEN_PACK-1.103654.1.105572.1,Auto (default),"3gp, aac",System Preinstalled,1.5.32,Спасибо за приложение! Вы супер!
+3/3/2018 13:12:02,Mic Quality,samsung,SM-J200H,"3.10.65-1193033, Android: 5.1.1",No,J200HXXU0APF1,Auto (default),"3gp, aac",User Installed,1.5.32,
+3/3/2018 14:55:28,Mic Quality,samsung,SM-G532F,"3.18.19-11901177, Android: 6.0.1",No,G532FXXU1AQG5,Auto (default),"ogg, wav, flac, m4a, mp3, opus",System Preinstalled,1.5.32,
+3/3/2018 18:56:18,Voice Line Quality,samsung,SM-G532F,"3.18.19-11901177, Android: 6.0.1",Yes,G532FXXU1AQG5,Auto (default),"3gp, aac",User Installed,1.5.32,
+3/3/2018 19:15:54,Regarding a problem,HUAWEI,RNE-L22,"4.1.18-gaea566a, Android: 7.0",No,"21C60B269S002C000,21C60B269S002C000",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.5.33,Incoming calls Ain't get recorded tho
+3/6/2018 15:33:45,محمد,HUAWEI,HUAWEI Y336-U02,"3.10.17, Android: 4.4.2",No,TM_BASE_MP_II_HUAWEI_W16.06|sc7731g_CP0_modem|08-12-2016 09:28:14,Auto (default),"3gp, aac",User Installed,1.5.32,
+3/7/2018 14:41:02,Voice Line Quality,OnePlus,ONEPLUS A3003,"3.18.66-perf , Android: 8.0.0",No,MPSS.TH.2.0.c1.9-00102-M8996FAAAANAZM-1.99649.1.118107.1,Auto (default),"3gp, aac",User Installed,1.5.32,Top 👍👍👍
+3/7/2018 18:10:52,No Opponent Side,samsung,SM-G950F,"4.4.13-12640043, Android: 7.0",No,G950FXXU1AQL5,System Default,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.5.33,"Hi
+I think I've tried all sources, and not hearing counterparty."
+3/11/2018 18:47:20,Voice Line Quality,LGE,LG-LS993,"3.18.31-perf-gd7d6855-00004-g8f3c1e9, Android: 7.0",No,MPSS.TH.2.0.1.c3.1-00018-M8996FAAAANAZM-1,Voice Line,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.5.33,It would be nice to have a user guide on how to get the best recording quality.
+3/11/2018 23:20:14,Mic Quality,motorola,Moto E,"3.4.112-g67cb120, 14.1-20180310-NIGHTLY-otus, Android: 7.1.2",Yes,MSM8610BP_18033.4614.44.00R,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.5.33,LineageOS 14.1
+3/12/2018 1:27:20,Mic Quality,HUAWEI,Honor 4x,"3.10.86-gd440d8c, Android: 6.0",Yes,"22.300.01.00.00,22.300.01.00.00",Mic,"3gp, aac",User Installed,1.5.32,
+3/12/2018 14:46:14,Voice Line Quality,HUAWEI,HUAWEI VNS-L21,"4.1.18-gb6ec11c, Android: 7.0",Yes,"21.286.00.00.050,21.286.00.00.050",System Default,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.5.32,
+3/13/2018 0:41:04,Voice Line Quality,Archos,Archos Access 50 4G,"3.10.65, Android: 7.0",Yes,FM_BASE_15C_W17.10.2_P2|sc983x_modem|04-14-2017 19:38:30,System Default,"3gp, aac",User Installed,1.5.33,
+3/13/2018 10:04:19,Voice Line Quality,Xiaomi,Redmi Note 4,"3.18.31-perf-g3180dc0, 14.1-20180303-NIGHTLY-mido, Android: 7.1.2",No,953_GEN_PACK-1.122638.1.123338.1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.5.33,No caller voice recorded
+3/13/2018 11:43:34,Voice Line Quality,HUAWEI,CAM-L21,"3.10.86-g10e01b9, Android: 6.0",No,"22.355.06.00.00,22.355.06.00.00",Auto (default),"3gp, aac",User Installed,1.5.32,
+3/13/2018 14:30:03,Low Bandwidth My Side,samsung,SM-G390F,"3.18.14-12298008, Android: 7.0",Yes,G390FXXU1AQI2,Voice Line,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.5.33,
+3/14/2018 15:44:25,Voice Line Quality,samsung,SM-J500H,"3.10.49-12221778, Android: 6.0.1",No,J500HXXU2BQA1,Auto (default),"3gp, aac",User Installed,1.5.32,
+3/16/2018 12:45:27,Recording starts 4-5 sec later on incomings calls,HUAWEI,BLA-L29,"4.4.23 , Android: 8.0.0",No,"21C10B551S000C000,21C10B551S000C000",Voice Line,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.5.33,Please check incomings calls starts  to late - about 3-5 sec later then call is actually recivied. 
+3/19/2018 12:41:44,Voice Line Quality,HUAWEI,HUAWEI NXT-L29,"3.10.86-g4eebdaf, Android: 6.0",No,"21.739.00.00.031,21.739.00.00.031",Auto (default),"3gp, aac",User Installed,1.5.32,
+3/19/2018 15:39:05,Do not recorder calls,Ulefone,T1,"4.4.15, Android: 7.0",No,"MOLY.LR11.W1630.MD.MP.V14.P14, 2017/07/31 14:52",Auto (default),"3gp, aac",User Installed,1.5.33,I'm said
+3/19/2018 23:22:35,Mic Quality,samsung,SM-G935F,"3.18.14-12365438, Android: 7.0",No,G935FXXU1DQIL,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.5.32,
+3/20/2018 7:50:40,Voice Line Quality,OnePlus,ONE A2003,"3.10.108-perf , Android: 8.1.0",Yes,MPSS.BO.2.6.2.c1-00072-M8994FAAAANAZM-1.82470.1,Auto (default),"3gp, aac",User Installed,1.5.33,Thanks
+3/20/2018 16:15:13,Gives error: cannot record phonecall,FP1,FP1U,"3.4.5, Android: 4.2.2",Yes,"MOLY.WR8.W1248.MD.WG.MP.V14.F1.P1, 2014/07/14 13:31",Auto (default),"3gp, aac",User Installed,1.5.33,
+3/22/2018 22:54:38,Voice Line Quality,HUAWEI,HUAWEI SCL-U31,"3.4.67, Android: 5.1.1",Yes,"MOLY.WR8.W1315.MD.WG.MP.V62, 2016/07/06 18:34",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.5.32,کمپ
+3/23/2018 15:49:35,No Opponent Side,motorola,Moto G (5S) Plus,"3.18.31-perf-gaf9c281, Android: 7.1.1",No,M8953_27.36.07.41R SANDERS_INDIADSDS_CUST,Voice Recognition,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.3,"Almost in all no oponent recording
+Is my handset doesn't support call recording"
+3/25/2018 1:55:10,Voice Line Quality,Google,Pixel 2,"4.4.88-ga1592dc22912, Android: 8.1.0",Yes,g8998-00164-1710262031,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.1,
+3/25/2018 12:10:24,No Opponent Side,samsung,SM-G900P,"3.4.113-nethunter-klte-spr-3.0, 14.1-20180316-NIGHTLY-kltedv, Android: 7.1.2",Yes,G900PVPS3CQD1,Auto (default),"3gp, aac",User Installed,1.6.3,"Worked great on my Nexus 6, Galaxy S5 opponent quality suffers. I use the app to record precious moments with my family. Thank you for the app."
+3/26/2018 18:40:38,Audio recording error: start failed.,motorola,Moto G (5),"3.18.31-perf-gd7ea90c, Android: 7.0",No,M8937_22.29.02.56R CEDRIC_BRAZILDSDS_CUST,Auto (default),"3gp, aac",User Installed,1.6.3,"Getting error, not sure what might be."
+3/26/2018 20:37:03,Mic Quality,LG,LG-D221,"3.4.67, Android: 4.4.2",No,"MOLY.WR8.W1338.MD.WG.TC01.SP.V5.P5, 2014/06/20 20:57",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.3,"Great app, need an option to remove empty calls & silence"
+3/26/2018 22:53:08,Voice Line Quality,ZTE,Z958,"3.10.49-g3d22cfa-00580-g8c88acd, Android: 5.1",No,2-00011-M8936FAAAANUZM-1.25863.1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.3,
+3/27/2018 15:15:38,Low Bandwidth Opponent Side,Huawei,Nexus 6P,"3.10.73-ElementalX-N6P-4.14, Android: 7.1.2",Yes,.2.6.1.c4-00008-M8994FAAAANAZM-1,System Default,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.3,
+3/27/2018 21:12:42,Voice Line Quality,samsung,SM-S550TL,"3.10.9-8489251, Android: 6.0.1",Yes,S550TLUDU1APG1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.3,
+3/28/2018 14:21:21,Not saving recordings even after giving tick to record.where does saving goes not seen in storage too,OnePlus,ONEPLUS A3003,"3.18.66-perf , Android: 8.0.0",No,MPSS.TH.2.0.c1.9-00102-M8996FAAAANAZM-1.99649.1.118107.1,Auto (default),"3gp, aac",User Installed,1.6.3,Not working in this version phone.please tell me whatcdo
+3/28/2018 22:33:54,Voice Line Quality,samsung,SM-J710F,"3.18.14-12710698, Android: 7.0",No,J710FXXU4BRA5,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.5.32,متشکریم
+3/29/2018 16:38:04,Low Bandwidth Opponent Side,motorola,Moto G (4),"3.10.84-g061c37c, Android: 6.0.1",No,M8952_70009.08.03.48R ATHENE_EMEA_DSDS_CUST,Voice Line,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.3,Opponent Side is to Low
+3/30/2018 16:40:09,Voice Line Quality,HUAWEI,CAM-L21,"3.10.86-ga8f7cac-dirty, Android: 6.0",No,"22.355.08.00.00,22.355.08.00.00",Auto (default),"3gp, aac",User Installed,1.5.32,
+4/2/2018 15:34:35,Voice Line Quality,samsung,SM-G610F,"3.18.14-12721818, Android: 7.0",No,G610FDDU1BQJ4,Auto (default),"3gp, aac",User Installed,1.5.32,
+4/2/2018 15:35:18,Voice Line Quality,samsung,SM-G610F,"3.18.14-12721818, Android: 7.0",No,G610FDDU1BQJ4,Auto (default),"3gp, aac",User Installed,1.5.32,
+4/3/2018 6:56:01,My Side Muted to the opponent,samsung,GT-I9060I,"3.10.17-767368, Android: 4.4.4",Yes,I9060IXXU0APJ3,Voice Line,"3gp, aac",User Installed,1.5.32,
+4/3/2018 8:52:18,Voice Line Quality,TCL,Alcatel_7049D,"3.10.65, Android: 5.1",No,"MOLY.LR9.W1444.MD.LWTG.MP.V16.P11, 2015/09/03 11:27",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.3,"Tambahkan fitur agar bisa merekam panggilan dan panggilan video WhatsApp, line, atau BBM!  "
+4/3/2018 13:00:07,Could not record calls,motorola,XT1562,"3.10.49-gd043ad1-00008-gbcf239c, Android: 7.1.1",No,M8936_20250112.18.05.38R LUX_EMEA_DSDS_CUST,Auto (default),"3gp, aac",User Installed,1.6.3,Could not record calls
+4/4/2018 9:06:30,"muted all sides, no any sounds",vernee,thor,"3.18.35 , Android: 7.0",No,"MOLY.LR9.W1444.MD.LWTG.MP.V110.5.P4, 2016/12/06 15:25",System Default,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.3,Не работает
+4/4/2018 21:58:39,Voice Line Quality,samsung,SM-G570F,"3.18.14-12687762, Android: 7.0",Yes,G570FXXU1BQI6,Voice Line,"3gp, aac",User Installed,1.5.32,
+4/5/2018 12:16:44,Voice Line Quality,Google,Pixel,"3.18.70-g0de8712, Android: 8.1.0",No,8996-130091-1710201747,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.3,Switch to ogg the default 3gp did not work
+4/5/2018 12:28:19,Voice Line Quality,LGE,LG-K500,"3.10.49-g62a60bd-00008-ge9ab332, Android: 6.0.1",Yes,MPSS.DPM.2.0.c11-00058-M8936FAAAANUZM-4.53954.1.85937.1,Voice Line,"3gp, aac",User Installed,1.5.32,
+4/6/2018 11:33:39,Mic Quality,HUAWEI,ALE-L21,"3.10.86-g9864f0c, Android: 6.0",No,"22.300.06.00.00,22.300.06.00.00",Mic,"3gp, aac",User Installed,1.5.32,
+4/7/2018 2:40:02,Voice Line Quality,HUAWEI,HUAWEI Y330-U11,"3.4.5, Android: 4.2.2",No,"MOLY.WR8.W1315.MD.WG.MP.V15.P10, 2014/03/18 08:36",Auto (default),"3gp, aac",User Installed,1.5.32,
+4/7/2018 17:24:05,Voice Line Quality,samsung,SM-J200H,"3.10.65-803547, Android: 5.1.1",Yes,J200HXXU0AOJ2,Auto (default),"3gp, aac",User Installed,1.5.32,
+4/8/2018 12:17:42,Mic Quality,samsung,SM-J710F,"3.18.14-12710698, Android: 7.0",No,J710FXXU4BRA5,Auto (default),"3gp, aac",User Installed,1.5.32,
+4/10/2018 1:30:21,Voice Line Quality,samsung,GT-S5830i,"2.6.35.7, Android: 2.3.6",No,unknown,Auto (default),"3gp, aac",User Installed,1.6.3,
+4/10/2018 1:31:36,Voice Line Quality,samsung,GT-S5830i,"2.6.35.7, Android: 2.3.6",No,unknown,Auto (default),"3gp, aac",User Installed,1.6.3,
+4/11/2018 14:40:20,Voice Line Quality,HUAWEI,ALE-L21,"3.10.86-gd440d8c, Android: 6.0",No,"22.300.01.00.00,22.300.01.00.00",System Default,"3gp, aac",User Installed,1.5.32,
+4/11/2018 14:40:26,Voice Line Quality,HUAWEI,ALE-L21,"3.10.86-gd440d8c, Android: 6.0",No,"22.300.01.00.00,22.300.01.00.00",System Default,"3gp, aac",User Installed,1.5.32,
+4/15/2018 11:21:33,Voice Line Quality,ZTE,NX597J,"3.18.19, Android: 6.0",No,"MOLY.LR9.W1444.MD.LWTG.MP.V88.P40, 2017/04/12 18:03",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.3,"Great app! Simple, Useful and Lite on memory.
+Anyway, the app can not listing audio recording files created by others app, even I have put all files in one folder ""Recording"".
+Can you make your app to be able to read other files other than created by your app? Eg: .wav, .mp3, .amr, .awb, .vmo.
+
+Best Regards and Thank You!
+"
+4/15/2018 17:44:32,Voice Line Quality,motorola,Nexus 6,"Android: 8.1.0, 3.10.108-gadde64c",Yes,MDM9625_104670.31.05.51R,Auto (default),"3gp, aac",User Installed,1.6.5,"Working perfectly, thank you so much!!!"
+4/16/2018 11:19:26,Voice Line Quality,samsung,SM-J710F,"3.18.14-12710698, Android: 7.0",No,J710FXXU4BRA5,Auto (default),"3gp, aac",User Installed,1.5.32,
+4/16/2018 11:58:18,Voice Line Quality,Sony Ericsson,LT18i,"2.6.32.9-perf, Android: 4.0.4",Yes,8x55A-AAABQOAZM-203028G-73,System Default,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.5.32,ارا
+4/17/2018 14:48:52,Voice Line Quality,samsung,SM-A720F,"3.18.14-12598883, Android: 7.0",Yes,A720FXXU3BRB6,Auto (default),"3gp, aac",User Installed,1.5.32,
+4/18/2018 4:56:14,Voice Line Quality,Xiaomi,MI 5,"Android: 8.1.0, 3.18.71-g6ce5ed19f8ba",Yes,TH20c1.9-0404_0019_21a98e6,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,
+4/18/2018 23:48:43,Voice Line Quality,HUAWEI,HUAWEI LUA-U22,"Android: 5.1, 3.10.72 ",No,"MOLY.WR8.W1449.MD.WG.MP.V32.P10, 2016/03/17 14:33",Auto (default),"3gp, aac",User Installed,1.6.5,
+4/19/2018 11:08:02,No Opponent Side,Nextbit,Robin,"Android: 8.1.0, 3.10.108-lineageos-ga0c36a6",Yes,M8992FAAAANAAM,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,Another closed source rooted app worked. I wonder why this app is not asking for root even when my phone is rooted.. probably why it doesn't work. 
+4/21/2018 5:09:01,Voice Line Quality,HUAWEI,ALE-L21,"Android: 6.0, 3.10.86-g9864f0c",Yes,"22.300.06.00.00,22.300.06.00.00",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,
+4/23/2018 6:15:09,Voice Line Quality,samsung,SM-A310F,"Android: 7.0, 3.10.61-11350514",No,A310FXXU3CQK2,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,
+4/23/2018 9:00:50,does not word,samsung,SM-G935F,"Android: 7.0, 3.18.14-12365438",No,G935FXXU2DRAG,Auto (default),"3gp, aac",User Installed,1.6.5,
+4/24/2018 0:29:47,Voice Line Quality,HTC,HTC One A9s,"Android: 6.0, 3.18.22-perf-01010-g916700f",No,1.1634V1P20T17.4000.611041_EU,Auto (default),"3gp, aac",User Installed,1.6.5,
+4/25/2018 7:10:48,Voice Line Quality,OnePlus,ONEPLUS A3003,"Android: 8.0.0, 3.18.66-perf ",Yes,MPSS.TH.2.0.c1.9-00102-M8996FAAAANAZM-1.99649.1.118107.1,Auto (default),"3gp, aac",User Installed,1.6.5,
+4/26/2018 15:51:41,Mic Quality,samsung,SM-G532F,"Android: 6.0.1, 3.18.19-9364647",No,G532FXXU1APJ7,Auto (default),"3gp, aac",User Installed,1.6.5,
+4/27/2018 10:08:49,Mic Quality,samsung,SM-G532F,"Android: 6.0.1, 3.18.19-9364647",No,G532FXXU1APJ7,Auto (default),"3gp, aac",User Installed,1.6.5,
+4/27/2018 10:14:58,Mic Quality,samsung,SM-G532F,"Android: 6.0.1, 3.18.19-9364647",No,G532FXXU1APJ7,Auto (default),"3gp, aac",User Installed,1.6.5,
+4/27/2018 19:14:40,Mic Quality,samsung,SM-G532F,"Android: 6.0.1, 3.18.19-9364647",No,G532FXXU1APJ7,Auto (default),"3gp, aac",User Installed,1.6.5,
+4/27/2018 20:08:54,Mic Quality,samsung,SM-G532F,"Android: 6.0.1, 3.18.19-9364647",No,G532FXXU1APJ7,Auto (default),"3gp, aac",User Installed,1.6.5,
+4/28/2018 11:21:19,Mic Quality,motorola,XT1032,"Android: 5.0.2, 3.4.42-gdd242b0",Yes,MSM8626BP_1032.390.81.01P EMEA_CUST,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,"can only hear other person from what is picked up by mic, cool app though"
+4/30/2018 2:48:20,Mic Quality,Nokia,Nokia_X,"Android: 4.1.2, 3.4.0-perf",No,8X25-SSRSKOLYM-3072,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,
+4/30/2018 2:49:01,Mic Quality,Nokia,Nokia_X,"Android: 4.1.2, 3.4.0-perf",No,8X25-SSRSKOLYM-3072,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,
+5/1/2018 21:09:32,Voice Line Quality,Xiaomi,MI 5,"Android: 8.1.0, 3.18.105-Omni",Yes,TH20c1.9-0131_1822_e441f9f,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,Thanks developer for this high quality call recording app. It would have been nice if you can add filter option for call recording group. I.E. user have the ability to select which contact to record and which not to.
+5/1/2018 22:29:37,Mic Quality,samsung,GT-I9060I,"Android: 4.4.4, 3.10.17-1139335",No,I9060IXXU0APJ3,Auto (default),"3gp, aac",User Installed,1.6.5,
+5/3/2018 16:49:35,Voice Line Quality,HUAWEI,HUAWEI Y560-U02,"Android: 4.4.2, 3.10.17",No,TM_BASE_MP_II_HUAWEI_W15.42|sc7731g_CP0_modem|10-28-2015 15:47:31,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,"کارنمیکند
+"
+5/4/2018 6:00:21,Mic Quality,HUAWEI,HUAWEI Y560-U02,"Android: 4.4.2, 3.10.17",No,TM_BASE_MP_II_HUAWEI_W15.42|sc7731g_CP0_modem|10-28-2015 15:47:31,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,
+5/4/2018 9:27:26,No Opponent Side,samsung,SM-G570F,"Android: 7.0, 3.18.14-12687762",No,G570FXXU1BQI6,Auto (default),"3gp, aac",User Installed,1.6.5,
+5/4/2018 12:00:09,No Opponent Side,Xiaomi,Mi A1,"Android: 8.0.0, 3.18.66-perf-g51da785",No,953_GEN_PACK-1.130033.1.131132.1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,Only records my voice
+5/4/2018 20:57:45,Voice Line Quality,HUAWEI,BND-L21,"Android: 7.0, 4.1.18-g1c5648e-dirty",No,"21C60B269S002C000,21C60B269S002C000",Voice Line,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,"Hello. 
+
+The application works perfectly with all the recording sources and all the formats. 
+
+Could you add an icon in the status bar and a permanent notification?
+The application is stopped despite having disabled the battery optimization under Android Nougat. 
+
+Thank you, cordially."
+5/5/2018 23:06:45,Voice Line Quality,TCL,4009A,Android: 4.4.2,No,6572M,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,Thank you for share this app.
+5/6/2018 2:36:15,Mic Quality,samsung,SM-A720F,"Android: 7.0, 3.18.14-12598883",No,A720FXXU3BRB6,Auto (default),"3gp, aac",User Installed,1.6.5,
+5/8/2018 20:01:15,Voice Line Quality,samsung,SM-G610F,"Android: 7.0, 3.18.14-13115588",No,G610FDDU1BRC1,Auto (default),"3gp, aac",User Installed,1.6.5,
+5/10/2018 7:08:43,Voice Line Quality,HMD Global,TA-1033,"Android: 8.1.0, 3.18.71-perf",No,MPSS.JO.3.0-00428-8937_GENNS_PACK-2.136685.1.140413.1,Auto (default),"3gp, aac",User Installed,1.6.5,
+5/10/2018 19:26:40,"Cannot recorded any voice coll, It's almost bojhaa, Totally poor",LENOVO,Lenovo A6020a46,"Android: 5.1.1, 3.10.49-perf-g4714f7e",No,M8936FAAAANUZM-1.68259.1.69229.1,Auto (default),"3gp, aac",User Installed,1.6.5,I cannot like it
+5/11/2018 20:03:42,Voice Line Quality,HUAWEI,BND-L21,"Android: 8.0.0, 4.4.23 ",No,"21C60B269S003C000,21C60B269S003C000",Voice Line,"3gp, aac",User Installed,1.6.5,
+5/13/2018 9:17:18,Voice Line Quality,HUAWEI,ALE-L21,"Android: 5.0, 3.10.61-g7af1093",Yes,"22.126.08.00.00,22.126.08.00.00",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,
+5/13/2018 9:17:42,Mic Quality,HUAWEI,ALE-L21,"Android: 5.0, 3.10.61-g7af1093",Yes,"22.126.08.00.00,22.126.08.00.00",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,
+5/15/2018 0:30:31,Voice Line Quality,HUAWEI,H30-U10,"Android: 4.2.2, 3.4.5",No,"MOLY.WR8.W1315.MD.WG.MP.V5.P29, 2014/09/09 09:43",Auto (default),"3gp, aac",User Installed,1.6.5,
+5/15/2018 19:39:47,Voice Line Quality,samsung,SM-A700FD,"Android: 6.0.1, 3.10.49-9040243",No,A700FDXXU1CPF1,Voice Line,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,Please add filter(do not record) by number. Thanks for great app.
+5/16/2018 5:33:39,Voice Line Quality,samsung,SM-J510F,"Android: 7.1.1, 3.10.49-12476963",Yes,J510FXXU2BQK1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,
+5/16/2018 20:16:41,Voice Line Quality,blackberry,STV100-1,"Android: 6.0.1, 3.10.84-perf-gd46863f",No,MPSS.BO.2.6.2.c2-00007-M8994FAAAANAZM-1.88616.1.97840.1,System Default,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,
+5/17/2018 20:35:08,Voice Line Quality,samsung,SM-A520F,"Android: 6.0.1, 3.18.14-10911830",No,A520FXXU2AQF5,Auto (default),"3gp, aac",User Installed,1.6.5,
+5/18/2018 21:26:53,Voice Line Quality,HUAWEI,MYA-L22,"Android: 6.0, 3.18.19 ",No,MOLY.LR9.W1444.MD.LWTG.MP.V94.P66,Auto (default),"3gp, aac",User Installed,1.6.6,
+5/20/2018 11:20:25,Voice Line Quality,samsung,SM-A720F,"Android: 7.0, 3.18.14-12598883",No,A720FXXU3BRB6,Auto (default),"3gp, aac",User Installed,1.6.5,
+5/20/2018 11:20:53,Voice Line Quality,samsung,SM-A720F,"Android: 7.0, 3.18.14-12598883",No,A720FXXU3BRB6,Auto (default),"3gp, aac",User Installed,1.6.5,
+5/20/2018 15:54:22,No Opponent Side,ZUK,Z2 Plus,"Android: 7.1.2, 3.18.31-n7x-caf-gc1465183c34",Yes,9-00026-M8996FAAAANAZM-1.63821.1,System Default,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.6,"Tried more or less all options, doesn't work as intended on my device, only on loudspeaker"
+5/21/2018 14:52:28,there's nothing. ,ZTE,ZTE BLADE A612,"Android: 7.0, 3.18.35 ",No,"MOLY.LR9.W1444.MD.LWTG.MP.V110.5.P28, 2017/07/18 17:01",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.6,i dont even know how to use it or set it up. U spent so much time to make this app but just a few sec to instruct people. I dont blame u for google's fault but i do for lack of a proper manual for average meat eatting ape.
+5/22/2018 9:24:44,Low Bandwidth Opponent Side,HUAWEI,CHM-U01,"Android: 4.4.2, 3.10.49-g4dd578c",Yes,"21.300.08.00.00,21.300.08.00.00",Auto (default),"3gp, aac",User Installed,1.6.5,
+5/24/2018 9:37:33,Mic Quality,samsung,SM-N900,"Android: 5.0, 3.4.39-5764310",Yes,N900DDUEBPF1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,
+5/25/2018 0:29:32,Voice Line Quality,samsung,SM-G900M,"Android: 7.1.2, 14.1-20180118-NIGHTLY-klte, 3.4.113-lineageos-g450ae2e",Yes,G900MUBU1CPD1,Auto (default),"3gp, aac",User Installed,1.6.5,"Please develop a way to rec whatsapp calls, this apk is simple and great! "
+5/25/2018 9:29:18,Voice Line Quality,samsung,SM-J106F,"Android: 6.0.1, 3.10.65-13092899",No,J106FJVU0ARB3,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,
+5/25/2018 9:36:35,Voice Line Quality,samsung,SM-J106F,"Android: 6.0.1, 3.10.65-13092899",No,J106FJVU0ARB3,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,
+5/27/2018 15:29:27,Voice Line Quality,HUAWEI,Che2-L11,"Android: 4.4.2, 3.10.49-gb78c20d",No,"21.233.00.00.00,21.233.00.00.00",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,
+5/27/2018 15:38:28,Voice Line Quality,HUAWEI,Che2-L11,"Android: 4.4.2, 3.10.49-gb78c20d",No,"21.233.00.00.00,21.233.00.00.00",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,
+5/28/2018 0:11:31,No Opponent Side,samsung,SM-N950F,"Android: 8.0.0, 4.4.13-13094739-QB17617410",No,N950FXXU3CRB9,System Default,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.6,"I've tried various settings, beginning with defaults, still no sound of other party."
+5/30/2018 22:50:34,"SIP Line working perfect when Call Recording is DISABLED, otherwise audio stuttering",samsung,SGH-I337M,"Android: 8.1.0, 3.4.112-aosp-g420231a",Yes,I337MVLUGOC4,System RAW,"3gp, aac",User Installed,1.6.6,"I tried all source options, stuttering always happening, but recording works (stuttering too as Call Recording seems to affect native phone app's performance somehow). Gonna attempt with an external sdcard merged with system, and then by making the app a system app if nothing changed."
+5/31/2018 22:29:44,Voice Line Quality,LGE,LG-K350,"Android: 6.0, 3.18.19 ",No,"MOLY.LR9.W1530.MD.LWTG.TC01.SP.M1V.V1.P13, 2016/06/23 22:30",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.9,
+5/31/2018 22:33:08,Voice Line Quality,LGE,LG-K350,"Android: 6.0, 3.18.19 ",No,"MOLY.LR9.W1530.MD.LWTG.TC01.SP.M1V.V1.P13, 2016/06/23 22:30",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.9,"I dont know which quality i liste, but this software works awesome here. Its the first time i há e a working call recorder. The ones at gplay doesnt works, none of them. Thanks a lot. Once i get money i'll donate to you. "
+5/31/2018 23:13:29,Its good. I'd like to record WhatsApp calls though,Sony,F5121,"Android: 8.0.0, 3.10.84-perf-g239435cb110",No,8976-8976.gen.prodQ-00017-35,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.13,
+6/1/2018 1:41:46,Voice Line Quality,samsung,SM-N910F,"Android: 6.0.1, 3.10.40-10100220",No,N910FXXS1DQA1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.9,Thank you for this fine programm
+6/2/2018 18:51:28,Voice Line Quality,LGE,VS986,"Android: 6.0, 3.10.84-g2d76c81-00004-g509e2f1",No,MPSS.BO.2.5.c3-00133-M8992FAAAANAZM-1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.13,"I love the app, and it works just perfectly for me. No issues whatsoever."
+6/3/2018 2:32:24,Mic Quality,Sony,C2305,"Android: 4.2.2, 3.4.5",No,"MOLY.WR8.W1248.MD.WG.MP.V9.F4.P3, 2013/12/13 10:08",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,
+6/3/2018 14:12:47,Mic Quality,samsung,SM-G900W8,"Android: 8.1.0, 3.4.113-lineageos-g6a2de78746c1",Yes,G900W8VLU1DQB2,Auto (default),"3gp, aac",User Installed,1.6.13,
+6/4/2018 22:39:03,ظبت صدا,HUAWEI,HUAWEI NMO-L31,"Android: 6.0, 3.10.90-g7e640ec",No,"21.290.03.00.031,21.290.03.00.031",Voice Line,"3gp, aac",User Installed,1.6.5,
+6/6/2018 8:17:40,Voice Line Quality,LGE,LG-M200,"Android: 7.0, 3.18.31-perf-g5d48548",No,MPSS.JO.2.0.c1.2-00031-8937_GENNS_PACK-1,Auto (default),"3gp, aac",User Installed,1.6.5,
+6/8/2018 9:09:44,No Opponent Side,LG,Nexus 5x,8.1,No,M89FF,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.14,Thank you for the great work!
+6/8/2018 15:06:29,No My Side,samsung,SM-J530F,"Android: 7.0, 3.18.14-12779141",No,J530FXXU2ARA2,Auto (default),"3gp, aac",User Installed,1.6.5,
+6/10/2018 12:47:51,Mic Quality,HUAWEI,ALE-L21,"Android: 6.0, 3.10.86-g9864f0c",Yes,"22.300.06.00.00,22.300.06.00.00",Auto (default),"3gp, aac",System Preinstalled,1.6.5,
+6/12/2018 4:09:23,Voice Line Quality,samsung,SM-S550TL,"Android: 6.0.1, 3.10.9-8489251",Yes,S550TLUDU1APG1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.14,
+6/12/2018 7:55:42,Voice Line Quality,LGE,LG-D855,"Android: 7.1.2, 3.4.113-crdroid-g6bb9b26",Yes,MPSS.DI.2.0.1.c1.13.2-00002-M8974AAAAANPZM-1,Auto (default),"3gp, aac",User Installed,1.6.9,Works brilliantly
+6/13/2018 8:19:22,Low Bandwidth Opponent Side,Xiaomi,Mi A1,"Android: 8.0.0, 3.18.66-perf-g7b33877",No,953_GEN_PACK-1.130033.1.131132.1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.14,The opponent side's volume is very low even with highest volumn.
+6/13/2018 9:13:40,Voice Line Quality,OnePlus,ONEPLUS A3003,"Android: 8.1.0, 3.18.71-lineageos-g38d3e2297c37",Yes,MPSS.TH.2.0.c1.9-00102-M8996FAAAANAZM-1.99649.1.118107.1,Auto (default),"3gp, aac",User Installed,1.6.14,It works
+6/13/2018 12:05:27,Mic Quality,LENOVO,Lenovo A7000-a,"Android: 5.0, 3.10.61 ",No,"A7000.ROW.V15, 2015/09/17 09:50",Mic,"3gp, aac",User Installed,1.6.14,
+6/13/2018 18:14:56,Voice Line Quality,motorola,Moto E,"Android: 7.1.2, 14.1-20180523-microG-condor, 3.4.112-g67cb120990a",Yes,MSM8610BP_18033.4614.45.00R,System Default,"3gp, aac",System Preinstalled,1.6.14,
+6/15/2018 8:09:15,No Opponent Side,Sony,D5322,"Android: 5.1.1, 3.4.0 ",Yes,8228-AAAAANWZQ-204027-42,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.14,
+6/15/2018 11:18:43,Not working ,samsung,SM-A600G,"Android: 8.0.0, 3.18.14-13397306-QB18066892",No,A600GDXU1ARDA,Auto (default),"3gp, aac",User Installed,1.6.14,
+6/16/2018 2:01:42,Voice Line Quality,HUAWEI,ALE-L21,"Android: 6.0, 3.10.86-g9864f0c",No,"22.300.06.00.00,22.300.06.00.00",Auto (default),"3gp, aac",User Installed,1.6.5,
+6/16/2018 22:20:59,Voice Line Quality,OnePlus,ONEPLUS A6003,"Android: 8.1.0, 4.9.65-perf ",Yes,MPSS.AT.4.0.c2.10-00014-SDM845_GEN_PACK-1.151767.1,Auto (default),"3gp, aac",User Installed,1.6.14,
+6/17/2018 16:56:46,Voice Line Quality,samsung,SM-G960U,"Android: 8.0.0, 4.9.65-13087505",No,G960USQU1ARBG,Mic,"3gp, aac",User Installed,1.6.14,
+6/17/2018 21:46:55,Voice Line Quality,samsung,SM-J105F,"Android: 5.1.1, 3.10.65-12623526",No,J105FXFU0ARC1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.14,Very good app. Thanks to the dev contributers
+6/18/2018 2:23:40,Mic Quality,samsung,GT-I9082,"Android: 4.1.2, 3.0.31-1036409",Yes,I9082XXAMC4,Auto (default),"3gp, aac",User Installed,1.6.5,
+6/20/2018 12:25:43,Voice Line Quality,samsung,SM-G532F,"Android: 6.0.1, 3.18.19-13534163",No,G532FXXU1ARB1,Auto (default),"3gp, aac",User Installed,1.6.5,
+6/20/2018 12:25:55,Voice Line Quality,samsung,SM-G532F,"Android: 6.0.1, 3.18.19-13534163",No,G532FXXU1ARB1,Auto (default),"3gp, aac",User Installed,1.6.5,
+6/21/2018 4:45:57,Low Bandwidth Opponent Side,ZTE,Z971,"Android: 7.1.1, 3.18.31-perf-gec2fe5e",No,7_GENNS_PACK-1.124341.1.125208.1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.14,"Only some of my call recorder calls are showing up in the app list.
+I'm using the f-droid version"
+6/23/2018 9:11:33,Voice Line Quality,SMART,Leto II,"Android: 6.0, 3.18.19 ",No,"MOLY.WR8.W1449.MD.WG.MP.V57.P5, 2016/10/10 14:39",Auto (default),"3gp, aac",User Installed,1.6.5,
+6/24/2018 13:00:41,Voice Line Quality,Sony,D2206,"Android: 4.4.4, 3.4.0",No,8926-DAAAANAZQ-00002-13,Voice Line,"3gp, aac",User Installed,1.6.5,
+6/24/2018 20:45:15,Low Bandwidth Booth Sides,samsung,SM-A310F,"Android: 7.0, 3.10.61-11350514",No,A310FXXU3CQK2,Auto (default),"3gp, aac",User Installed,1.6.5,
+6/24/2018 20:53:43,Mic Quality,HUAWEI,CHM-U01,"Android: 4.4.2, 3.10.49-g4dd578c",No,"21.300.08.00.00,21.300.08.00.00",Auto (default),"3gp, aac",User Installed,1.6.5,
+6/26/2018 21:30:18,Voice Line Quality,Sony,D2206,"Android: 4.4.4, 3.4.0",No,8926-DAAAANAZQ-00002-13,Auto (default),"3gp, aac",User Installed,1.6.5,
+6/27/2018 19:31:12,Voice Line Quality,samsung,SM-J200H,"Android: 5.1.1, 3.10.65-803547",No,J200HXXU0AOI9,Auto (default),"3gp, aac",User Installed,1.6.5,
+7/1/2018 10:04:54,Voice Line Quality,HUAWEI,HUAWEI G750-U10,"Android: 4.2.2, 3.4.39",Yes,"MOLY.WR8.W1315.MD.WG.MP.V19.P10, 2014/04/10 08:30",Auto (default),"3gp, aac",System Preinstalled,1.6.5,
+7/2/2018 10:50:30,Mic Quality,HUAWEI,HUAWEI LYO-L21,"Android: 5.1, 3.10.65 ",No,"MOLY.LR9.W1444.MD.LWTG.MP.V42.P40,MOLY.LR9.W1444.MD.LWTG.MP.V42.P40, 2017/06/01 15:45",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.14,
+7/2/2018 10:57:12,Mic Quality,HUAWEI,HUAWEI LYO-L21,"Android: 5.1, 3.10.65 ",No,"MOLY.LR9.W1444.MD.LWTG.MP.V42.P40,MOLY.LR9.W1444.MD.LWTG.MP.V42.P40, 2017/06/01 15:45",Auto (default),"3gp, aac",User Installed,1.6.14,
+7/2/2018 11:40:31,Voice Line Quality,Valencia2_Y100pro,Valencia2_Y100pro,"Android: 5.1, 3.10.65 ",No,"MOLY.LR9.W1444.MD.LWTG.MP.V8.P28, 2016/02/23 13:53",Auto (default),"3gp, aac",User Installed,1.6.14,Nice app. Has been working great so far.
+7/3/2018 14:59:10,Voice Line Quality,Vodafone,VFD 600,"Android: 6.0.1, 3.10.49",Yes,c1-00049-8909_GEN_PACK-1.68379.1,Voice Line,"3gp, aac",User Installed,1.6.15,
+7/4/2018 1:12:33,Voice Line Quality,HUAWEI,PRA-LA1,"Android: 7.0, 4.1.18-g642bc10",Yes,"21.288.03.00.050,21.288.03.00.050",Auto (default),"3gp, aac",System Preinstalled,1.6.5,
+7/4/2018 21:10:09,No Opponent Side,HUAWEI,CLT-L29,"Android: 8.1.0, 4.4.103 ",No,"21C20B362S000C000,21C20B362S000C000",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.16,Добрый день. Не слышно голоса собеседника 
+7/6/2018 5:19:58,Mic Quality,samsung,SM-G900T,"Android: 7.1.2, 14.1-20180629-microG-klte, 3.4.113-lineageos-g31d25d7aca3",No,G900TUVS1GQA2,Auto (default),"3gp, aac",User Installed,1.6.15,Please allow dialling from the call record app so I don't have to turn on auto-record to record one call.
+7/6/2018 22:08:00,Voice Line Quality,samsung,GT-S6802,"Android: 2.3.6, 2.6.35.7",No,unknown,Voice Line,"3gp, aac",User Installed,1.6.15,
+7/8/2018 16:07:10,Voice Line Quality,HUAWEI,CAM-L21,"Android: 6.0, 3.10.86-g2687ed6",No,"22.355.02.00.00,22.355.02.00.00",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,
+7/10/2018 10:51:11,Failed to start,samsung,SM-G920I,"Android: 7.0, 3.10.61-13185647",No,G920IDVU3FRA8,Auto (default),"3gp, aac",User Installed,1.6.16,Did not start
+7/10/2018 17:32:49,Voice Line Quality,OnePlus,A0001,"Android: 8.1.0, 3.4.113-bacon-g2130127",Yes,DI.3.0.c6-00241-M8974AAAAANAZM-1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.16,My voice is loud but other is lower...
+7/13/2018 11:02:19,No Opponent Side,LGE,Nexus 4,"Android: 8.1.0, 3.4.113-lineageos-g43295f3",Yes,M9615A-CEFWMAZM-2.0.1701.07,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.16,"There is no way to record opponent side. All I can hear is my side of the conversation, no matter which settings I use."
+7/14/2018 0:42:50,Voice Line Quality,samsung,SM-J701F,"Android: 7.0, 3.18.14-11678590",No,J701FXXU1AQI1,Auto (default),"3gp, aac",User Installed,1.6.5,
+7/14/2018 19:33:22,Voice Line Quality,HUAWEI,P10 lite,"Android: 7.0, 4.1.18-gf935254",No,"21C60B269S002C000,21C60B269S002C000",Voice Line,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.16,
+7/14/2018 22:11:57,Voice Line Quality,samsung,SM-J530F,"Android: 7.0, 3.18.14-12779141",No,J530FXXU2ARA2,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,
+7/15/2018 9:32:39,Mic Quality,Google,Pixel,"Android: 8.1.0, 3.18.70-g82eea0a0797-00017-gc196b1dc825",Yes,8996-130181-1805011532,Auto (default),"3gp, aac",User Installed,1.6.15,Can you add a root option?I have root but only mic quality
+7/15/2018 16:57:49,Voice Line Quality,LGE,LG-K220,"Android: 6.0.1, 3.18.19",No,"MOLY.LR9.W1530.MD.LWTG.TC01.SP.K6GLOBAL.V1.P25, 2017/01/10 08:42",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,
+7/17/2018 13:35:08,Voice Line Quality,Acer,E39,"Android: 4.4.2, 3.4.67",Yes,"MOLY.WR8.W1315.MD.WG.MP.V37.P31, 2014/12/03 18:37",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.15,"То пишет, то не пишет(причём в списке загруженных программа болтается всегда) - невозможно определить, от чего это зависит."
+7/21/2018 10:41:34,Voice Line Quality,OnePlus,ONEPLUS A3003,"Android: 7.0, 3.18.31-perf ",Yes,MPSS.TH.2.0.c1.9-00078-M8996FAAAANAZM-1.81324.1,Auto (default),"3gp, aac",User Installed,1.6.14,"Auto cloud upload support, please."
+7/23/2018 3:03:04,Voice Line Quality,HUAWEI,PRA-LA1,"Android: 7.0, 4.1.18-g642bc10",Yes,"21.288.03.00.050,21.288.03.00.050",Auto (default),"ogg, wav, flac, m4a, mp3, opus",System Preinstalled,1.6.5,Y
+7/23/2018 16:54:04,Voice Line Quality,HUAWEI,HUAWEI SCL-U31,"Android: 5.1.1, 3.10.49-g33ceeea",No,11306101,Auto (default),"3gp, aac",System Preinstalled,1.6.5,
+7/23/2018 22:03:14,Voice Line Quality,HUAWEI,HUAWEI Y600-U20,"Android: 4.2.2, 3.4.5",No,"MOLY.WR8.W1315.MD.WG.MP.V11.P10, 2014/06/20 13:07",Auto (default),"3gp, aac",User Installed,1.6.5,
+7/23/2018 22:04:58,My Side Muted to the opponent,HUAWEI,HUAWEI Y600-U20,"Android: 4.2.2, 3.4.5",Yes,"MOLY.WR8.W1315.MD.WG.MP.V11.P10, 2014/06/20 13:07",VoIP,"3gp, aac",User Installed,1.6.5,
+7/24/2018 1:29:26,Voice Line Quality,motorola,Moto E,"Android: 7.1.2, 14.1-20180721-microG-otus, 3.4.112-g67cb120990a",Yes,MSM8610BP_18033.4614.44.00R,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.16,
+7/24/2018 15:15:43,Mic Quality,HUAWEI,HUAWEI G610-U20,"Android: 4.2.1, 3.4.5",Yes,"MOLY.WR8.W1248.MD.WG.MP.V5.P11, 2014/02/20 01:39",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,
+7/24/2018 15:25:17,Voice Line Quality,HUAWEI,HUAWEI G610-U20,"Android: 4.2.1, 3.4.5",No,"MOLY.WR8.W1248.MD.WG.MP.V5.P11, 2014/02/20 01:39",Auto (default),"3gp, aac",User Installed,1.6.5,
+7/26/2018 8:51:35,Voice Line Quality,Acer,E39,"Android: 4.4.2, 3.4.67",Yes,"MOLY.WR8.W1315.MD.WG.MP.V37.P31, 2014/12/03 18:37",Voice Line,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.16,После обновления стала работать без сбоев. Не хватает разрешения на автозапуск и парольной защиты программы. А так - вообще класс!!!
+7/26/2018 13:31:30,No Opponent Side,AlcatelOneTouch,Alcatel_5044R,"Android: 7.0, 3.10.49-gf2f82e6-00003-g39ffe37",No,.JO.2.0.c1-00150-8909_GEN_PACK-1,Auto (default),"3gp, aac",System Preinstalled,1.6.16,
+7/29/2018 1:37:20,My Side Muted to the opponent,samsung,SM-G925F,"Android: 6.0.1, 3.10.61-7169835",Yes,G925FXXS4DPI1,Auto (default),"3gp, aac",User Installed,1.6.5,
+7/29/2018 1:38:42,Voice Line Quality,samsung,SM-G925F,"Android: 6.0.1, 3.10.61-7169835",Yes,G925FXXS4DPI1,Auto (default),"3gp, aac",User Installed,1.6.5,
+7/29/2018 1:39:51,Voice Line Quality,samsung,SM-G925F,"Android: 6.0.1, 3.10.61-7169835",Yes,G925FXXS4DPI1,Auto (default),"3gp, aac",User Installed,1.6.5,بله
+7/29/2018 1:43:05,Voice Line Quality,samsung,SM-G925F,"Android: 6.0.1, 3.10.61-7169835",Yes,G925FXXS4DPI1,Auto (default),"3gp, aac",System Preinstalled,1.6.5,
+7/29/2018 3:43:07,Voice Line Quality,HUAWEI,HUAWEI Y560-U02,"Android: 4.4.2, 3.10.17",No,TM_BASE_MP_II_HUAWEI_W15.18|sc7731g_CP0_modem|05-01-2015 22:08:55,Auto (default),"3gp, aac",User Installed,1.6.5,
+7/31/2018 2:16:00,Voice Line Quality,HUAWEI,PRA-LA1,"Android: 7.0, 4.1.18-g642bc10",No,"21.288.03.00.050,21.288.03.00.050",Auto (default),"3gp, aac",User Installed,1.6.5,Ggg
+8/6/2018 13:51:03,Voice Line Quality,HUAWEI,HUAWEI TIT-AL00,"Android: 5.1, 3.10.65",No,"MOLY.LR9.W1444.MD.LWTG.MP.V16.P37.T1, 2016/06/27 10:10",Auto (default),"3gp, aac",User Installed,1.6.5,
+8/6/2018 13:53:17,Doesn't record anything ,samsung,SM-G960F,"Android: 8.0.0, 4.9.59-13792060-QB18608581",No,G960FXXU1BRF5,Auto (default),"3gp, aac",User Installed,1.6.16,Doesn't record anything 
+8/7/2018 11:43:06,Voice Line Quality,samsung,SM-J530F,"Android: 7.0, 3.18.14-12779141",No,J530FXXU2ARA2,Voice Line,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,
+8/9/2018 21:59:12,No Opponent Side,samsung,SM-G570M,"Android: 7.0, 3.18.14-12686191",No,G570MUBU3BRF1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.16,"Unfortunetely it doesn't work well like worked in my old lg k8. In this fone i think it record the mic voice because i can clearly hear me but i barely hear the other side. I want to suggest to implement an audio compressor in this case to kinda bring the lower volumes up in order to make mic records sound more audible. It may also raise the noise, but i think this may be a nice improvement. Thanks, this piece of software is awesome. Comtact me if you want at heitordrpATgmailDOTcom"
+8/10/2018 8:59:03,Voice Line Quality,samsung,GT-S5830i,"Android: 2.3.6, 2.6.35.7",Yes,unknown,Voice Line,"3gp, aac",User Installed,1.6.16,654742108
+8/11/2018 11:08:57,No My Side,samsung,SM-J701F,"Android: 7.0, 3.18.14-11678590",Yes,J701FXXU1AQI1,Voice Line,"ogg, wav, flac, m4a, mp3, opus",System Preinstalled,1.6.5,
+8/12/2018 18:34:00,Voice Line Quality,samsung,SM-G935F,"Android: 8.0.0, 3.18.14-13438344-QB18291953",No,G935FXXU2ERD6,Mic,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.16,App not call recorder
+8/13/2018 11:37:51,Voice Line Quality,HUAWEI,HUAWEI CUN-U29,"Android: 5.1, 3.10.72 ",Yes,MOLY.WR8.W1449.MD.WG.MP.V29.5.P5,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,
+8/14/2018 6:36:09,Voice Line Quality,zte,ZTE V765M,"Android: 4.2.2, 3.4.5",Yes,"MOLY.WR8.W1315.MD.WG.MP.V1, 2014/06/25 16:33",Auto (default),"3gp, aac",User Installed,1.6.16,Gracias! No grava??
+8/14/2018 18:55:39,Voice Line Quality,motorola,Nexus 6,"Android: 8.1.0, 3.10.108-gd38e77c",Yes,MDM9625_104670.31.05.51R,Auto (default),"3gp, aac",User Installed,1.6.18,Thank you so much for this awesome app !
+8/14/2018 21:51:42,Voice Line Quality,Sony,G8441,"Android: 8.1.0, 4.4.136-cryptomilk ",Yes,8998-8998.gen.prodQ-00197-27,Auto (default),"3gp, aac",User Installed,1.6.18,"3gp and aac - good volume, voice line quality with crackling. Everything else - very low volume from opponent, mic quality on My Side. "
+8/16/2018 14:35:19,Voice Line Quality,Lenovo,Vibe P1,"Android: 8.1.0, 3.10.49-g93eb538",Yes,MPSS.DPM.2.0.2.c1-00131,System Default,"3gp, aac",User Installed,1.6.16,Harika bir uygulama reklam yok tlf yorulmuyor kasmiyor bunu modul olarak tlf eklentil olarak eklenilse harika olur.
+8/17/2018 23:26:04,Mic Quality,LGE,LG-VS985,"Android: 8.1.0, 3.4.113-Lineage-g6ca1fbc8624",Yes,MPSS.DI.2.0.1.c1.13-00008-M8974AAAAANPZM-1,Auto (default),"3gp, aac",User Installed,1.6.22,Just to suggest one feature: register origen/destination phone and show it in the recordings index or at least append it in the name of file. Some other app use something like time_out_1234567890 for instance. Thanks a lot for your useful app.
+8/18/2018 23:43:08,Voice Line Quality,Xiaomi,Redmi 5A,"Android: 7.1.2, 14.1-20180515-UNOFFICIAL-riva, 3.18.31-perf-gf41d4b9",Yes,MPSS.JO.3.0-00369-8937_GENNS_PACK-2_V044,Auto (default),"3gp, aac",User Installed,1.6.22,
+8/20/2018 13:49:01,No Opponent Side,motorola,Moto G (5) Plus,"Android: 7.0, 3.18.31-perf-gf055b2e-00107-g516eb24",No,M8953_37.46.07.47.01R POTTER_INDIADSDS_CUST,Voice Recognition,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.22,Oppositie side sound not coming in Nougat 
+8/20/2018 14:33:58,Voice Line Quality,samsung,GT-I9300I,"Android: 4.4.4, 3.4.0-4967348",No,I9300IXXUBPF2,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,
+8/22/2018 5:55:43,Mic Quality,HMD Global,TA-1038,"Android: 8.0.0, 3.18.60 ",No,"MOLY.LR9.W1444.MD.LWTG.MP.V182.P2, 2018/04/23 19:10",Mic,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.22,Very low volume on other side my side volume records just fine
+8/22/2018 12:27:18,Mic Quality,HUAWEI,VTR-L29,"Android: 8.0.0, 4.4.23 ",No,"21C30B323S003C000,21C30B323S003C000",VoIP,"3gp, aac",User Installed,1.6.24,
+8/23/2018 2:03:14,Voice Line Quality,motorola,Nexus 6,"Android: 8.1.0, 3.10.108-g597516f",Yes,MDM9625_104670.31.05.51R,Auto (default),"3gp, aac",User Installed,1.6.22,"Thanks again for this wonderful app!
+Could you please add a black theme (for OLED displays) ?"
+8/23/2018 10:58:19,Voice Line Quality,motorola,Nexus 6,"Android: 8.1.0, 3.10.108-g597516f",Yes,MDM9625_104670.31.05.45R,Auto (default),"3gp, aac",User Installed,1.6.24,
+8/24/2018 10:00:03,Not Working,samsung,SM-G930F,"Android: 8.1.0, 3.18.91-gdc1d24a",Yes,G930FXXU2ERGC,Auto (default),"3gp, aac",User Installed,1.6.25,"Hi, great app, unfortunately on Oreo base custom ROM the app crash after 1 second on start call. With Marshmallow base ROM works good."
+8/24/2018 11:32:19,Voice Line Quality,LeEco,LEX727,"Android: 8.1.0, 3.18.109-lineage-g60e6b83",No,MPSS.TH.2.0.c1.9.1-00010,Auto (default),"3gp, aac",User Installed,1.6.25,Thanks for this app.
+8/24/2018 12:10:20,Not Working,samsung,SM-G900F,"Android: 6.0.1, 3.4.0-9493471",No,G900FXXS1CQAV,Auto (default),"3gp, aac",User Installed,1.6.25,On call start popup comes up saying call recording is not possible
+8/26/2018 6:03:13,Voice Line Quality,samsung,SM-G900MD,"Android: 6.0.1, 3.4.0-8580782",No,G900MDUBU1CPE1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,
+8/26/2018 6:24:12,صدای هر دو طرف,samsung,SM-G900MD,"Android: 6.0.1, 3.4.0-8580782",No,G900MDUBU1CPE1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,
+8/26/2018 6:31:13,Voice Line Quality,samsung,SM-G900MD,"Android: 6.0.1, 3.4.0-8580782",Yes,G900MDUBU1CPE1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,
+8/26/2018 6:41:19,صدای دخترانه ضبط شود,samsung,SM-G900MD,"Android: 6.0.1, 3.4.0-8580782",Yes,G900MDUBU1CPE1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,صدای هردو طرف ضبط شود
+8/26/2018 13:48:20,Mic Quality,samsung,SM-G900W8,"Android: 8.1.0, 3.4.113-lineageos-g4458bbb",Yes,G900W8VLU1DQB2,Auto (default),"3gp, aac",User Installed,1.6.25,
+8/26/2018 14:00:15,Voice Line Quality,OnePlus,ONE E1001,"Android: 6.0.1, 3.4.0-perf-ge4f53e4",No,0.1.c1.11-00006-M8974AAAAANAZM-1,Auto (default),"3gp, aac",User Installed,1.6.25,
+8/28/2018 16:29:32,Mic Quality,OnePlus,ONEPLUS A5000,"Android: 8.1.0, 4.4.78-perf ",No,MPSS.AT.2.0.c4.7-00070-8998_GEN_PACK-2.131284.1.132073.1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.25,"Never start sondern Dome Versions. Deactivate optimizazion multiple Times. Does not Work.
+In recordings, own Vice is good, Others Side is Versand Low Volume... "
+8/30/2018 7:10:07,Mic Quality,LENOVO,Lenovo A316i,"Android: 4.2.2, 3.4.5",No,"A316I.V15, 2014/07/30 10:26",Mic,"3gp, aac",User Installed,1.6.25,"Nice work, must have"
+8/30/2018 13:36:11,Mic Quality,LENOVO,Lenovo A316i,"Android: 4.2.2, 3.4.5",No,"A316I.V15, 2014/07/30 10:26",Mic,"3gp, aac",User Installed,1.6.25,"Nice work, must have"
+8/31/2018 0:48:15,Voice Line Quality,samsung,SM-G900MD,"Android: 6.0.1, 3.4.0-8580782",No,G900MDUBU1CPE1,Auto (default),"3gp, aac",User Installed,1.6.5,
+8/31/2018 9:39:31,Low Bandwidth,samsung,GT-S5830,"Android: 2.3.3, 2.6.35.7-perf-CL456971",No,unknown,Auto (default),"3gp, aac",User Installed,1.6.5,
+8/31/2018 23:48:02,Voice Line Quality,samsung,SM-G900MD,"Android: 6.0.1, 3.4.0-8580782",No,G900MDUBU1CPE1,Voice Line,"ogg, wav, flac, m4a, mp3, opus",System Preinstalled,1.6.5,
+8/31/2018 23:49:40,Voice Line Quality,samsung,SM-G900MD,"Android: 6.0.1, 3.4.0-8580782",No,G900MDUBU1CPE1,Voice Line,"ogg, wav, flac, m4a, mp3, opus",System Preinstalled,1.6.5,
+9/1/2018 0:01:56,Voice Line Quality,samsung,SM-G900MD,"Android: 6.0.1, 3.4.0-8580782",No,G900MDUBU1CPE1,Voice Line,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,هردو طرف ضبط شود
+9/1/2018 0:12:58,Voice Line Quality,samsung,SM-G900MD,"Android: 6.0.1, 3.4.0-8580782",No,G900MDUBU1CPE1,Voice Line,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,
+9/1/2018 18:02:58,No Opponent Side,samsung,SM-G900MD,"Android: 6.0.1, 3.4.0-10994991",No,G900MDUBU1CQC1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.25,Record Works only in speakerphone Mode. Normal mode record only my Voice. Great App. Thanks!
+9/5/2018 14:13:49,Not Working,Xiaomi,Redmi 4,"Android: 7.1.2, 3.18.31-perf-gaed020cb",No,MPSS.TA.2.3.c1-00395-8953_GEN_PACK-1_V042,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.25,Not working
+9/7/2018 20:05:26,Voice Line Quality,Essential Products,PH-1,"Android: 9, 4.4.145-perf ",Yes,2.0.c4-M2.0.5,Voice Line,"ogg, wav, flac, m4a, mp3, opus",System Preinstalled,1.6.25,Installed as system app using root.  As user app only had mic quality with no opponent side of conversation
+9/9/2018 8:21:41,Voice Line Quality,LGE,LG-H540,"Android: 6.0, 3.10.72",No,MOLY.WR8.W1338.MD.WG.TC01.MUSE82Y.SP.V12,Auto (default),"3gp, aac",User Installed,1.6.5,
+9/10/2018 9:35:45,Not Working,Xiaomi,Mi A1,"Android: 8.1.0, 3.18.71-perf-gb3363e5",No,.TA.2.3.c1-00723-8953_GEN_PACK-1,Auto (default),"3gp, aac",User Installed,1.6.25,
+9/10/2018 14:32:42,Voice Line Quality,ایران,LG-k10,"Android: 7.0, 3.18.35",No,"MOLY.LR11.W1552.MD.TC01.LVSF.SP.V1.P22, 2017/11/13 16:10",Auto (default),"3gp, aac",User Installed,1.6.5,
+9/12/2018 6:50:55,Not Working,samsung,SM-T357T,"Android: 5.0.2, 3.10.49-5379129",Yes,T357TUVS1APL1,Auto (default),"3gp, aac",User Installed,1.6.25,
+9/12/2018 7:34:10,Not Working,LGE,LM-X410(FG),"Android: 7.1.2, 3.18.31-perf ",No,MPSS.JO.3.0-00428-8937_GENNS_PACK-2,Auto (default),"3gp, aac",User Installed,1.6.25,
+9/13/2018 10:16:39,Mic Quality,samsung,SM-A520F,"Android: 8.0.0, 3.18.14-13712092-QB19031861",No,A520FXXU5CRF8,System Default,"3gp, aac",User Installed,1.6.25,
+9/13/2018 14:06:14,Mic Quality,HUAWEI,CRO-L22,"Android: 6.0, 3.18.19",No,"MOLY.LR9.W1444.MD.LWTG.MP.V94.P38, 2017/06/08 17:59",Auto (default),"3gp, aac",User Installed,1.6.5,
+9/13/2018 19:23:10,Mic Quality,samsung,SM-A520F,"Android: 8.0.0, 3.18.14-13670986-QB19124338",Yes,A520FXXU6CRH2,Mic,"3gp, aac",System Preinstalled,1.6.5,
+9/15/2018 21:56:57,Not Working,Xiaomi,Mi A1,"Android: 8.1.0, 3.18.71-perf-gb3363e5",No,.TA.2.3.c1-00723-8953_GEN_PACK-1,Auto (default),"3gp, aac",User Installed,1.6.25,
+9/15/2018 21:57:06,Not Working,Xiaomi,Mi A1,"Android: 8.1.0, 3.18.71-perf-gb3363e5",No,.TA.2.3.c1-00723-8953_GEN_PACK-1,Auto (default),"3gp, aac",User Installed,1.6.25,
+9/15/2018 22:57:15,No Opponent Side,samsung,SM-G900MD,"Android: 6.0.1, 3.4.0-10994991",No,G900MDUBU1CQC1,System Default,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.25,
+9/16/2018 20:27:30,Not Working,samsung,SM-G950F,"Android: 8.0.0, 4.4.111-14023573-QB19093103",No,G950FXXU3CRGH,Auto (default),"3gp, aac",User Installed,1.6.25,
+9/20/2018 16:03:04,Not Working,samsung,SM-G900H,"Android: 6.0.1, 3.10.9-7760371",No,G900HXXU1CPCA,Voice Line,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,
+9/20/2018 23:33:20,Not Working,samsung,SM-N960F,"Android: 8.1.0, 4.9.59-14091311-QB19533257",No,N960FXXU2ARH7,Auto (default),"3gp, aac",User Installed,1.6.25,"No hace nada, gracias "
+9/22/2018 11:12:22,Voice Line Quality,HMD Global,TA-1025,"Android: 8.1.0, 3.18.71-perf",No,MPSS.JO.3.0-00428-8937_GENNS_PACK-2.136685.1.140413.1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.25,"Flawless, excellent quality audio, thank you so much, Dev!"
+9/24/2018 16:09:44,No Opponent Side,Xiaomi,MI 5,Android: 9; 3.18.122-HashOS,Yes,"TH20c1.9-0907_1847_33f138f,TH20c1.9-0907_1847_33f138f",Auto (default),"3gp, aac",User Installed,1.6.28,"Not working on Pie for now, HashOS "
+9/24/2018 16:11:56,Bit low volume from the mic,Xiaomi,MI 5,Android: 9; 3.18.122-HashOS,Yes,"TH20c1.9-0907_1847_33f138f,TH20c1.9-0907_1847_33f138f",Mic,"3gp, aac",User Installed,1.6.28,The only working option on HashOS
+9/25/2018 5:54:44,Not Working,Sony,D6503,"Android: 6.0.1, 3.4.0-perf-gc14c2d5",No,8974-AAAAANPZQ-00068-61,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,
+9/28/2018 19:54:15,Voice Line Quality,HUAWEI,Che2-L11,"Android: 4.4.2, 3.10.49-gb7acdc7",No,"21.300.17.00.00,21.300.17.00.00",Auto (default),"3gp, aac",User Installed,1.6.5,dosetdaram
+9/30/2018 14:48:42,No Opponent Side,motorola,Moto G (5),Android: 7.0; 3.18.31-perf-g4a0c859-00025-g7f05384,No,M8937_22.29.02.56.01R CEDRIC_EMEADSDS_CUST,Voice Recognition,"3gp, aac",User Installed,1.6.29,Tried a lot of different setting - either no opponent voice or error. Shame because it looks like a great trustworthy app. Waiting for updates. Cheers!
+9/30/2018 21:43:59,Not Working,Sony,LT30p,"Android: 4.0.4, 3.0.8 1.0.21100-02378-gcca969a",Yes,8960A-AAAAANAZQ-10015008-11,VoIP,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,یافت نمیشوند مکالماتم چرا؟ 
+9/30/2018 21:52:32,Not Working,Sony,LT30p,"Android: 4.0.4, 3.0.8 1.0.21100-02378-gcca969a",Yes,8960A-AAAAANAZQ-10015008-11,VoIP,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,یافت نمیشوند مکالماتم چرا؟ 
+9/30/2018 22:20:34,Voice Line Quality,Sony,LT30p,"Android: 4.0.4, 3.0.8 1.0.21100-02378-gcca969a",No,8960A-AAAAANAZQ-10015008-11,Mic,"ogg, wav, flac, m4a, mp3, opus",System Preinstalled,1.6.5,خوب
+10/1/2018 11:48:28,Not Working,asus,ASUS_X00TD,Android: 8.1.0; 4.4.78-perf ,No,660_GEN_PACK-1.163366.0.163573.1,Voice Line,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.29,"Brother thank you so much for simple. Call recorder however. This app is work one.side where call box app works great so can you let us.know.how they configuration. We can.do the same
+"
+10/1/2018 19:01:14,Voice Line Quality,OnePlus,ONEPLUS A6003,Android: 9; 4.9.106-perf ,No,MPSS.AT.4.0.c2.15-00007-SDM845_GEN_PACK-1.167997.2,Voice Line,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.29,I tried few sources but always have recorded silence. 
+10/2/2018 7:19:45,Mic Quality,Sony,LT30p,"Android: 4.0.4, 3.0.8 1.0.21100-02378-gcca969a",No,8960A-AAAAANAZQ-10015008-11,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,"چرا دیلیت کردم ولی بازهم باز نمیشه
+"
+10/3/2018 13:41:30,Voice Line Quality,HUAWEI,ALE-L21,"Android: 5.0.1, 3.10.61-g19293d2",Yes,"22.126.21.00.00,22.126.21.00.00",Auto (default),"3gp, aac",System Preinstalled,1.6.5,
+10/7/2018 1:08:08,Mic Quality,HUAWEI,WAS-LX1A,"Android: 7.0, 4.1.18-g4b8aedc",No,"21.287.00.00.050,21.287.00.00.050",Auto (default),"3gp, aac",User Installed,1.6.5,
+10/10/2018 18:54:20,Voice Line Quality,HTC,HTC U11,Android: 8.0.0; 4.4.78-perf-gcae773b60652,Yes,8998-002772-1711161638,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.29,"Please add option to select/delete multiple recordings. Otherwise, great app! Thanks! "
+10/11/2018 6:41:26,No Opponent Side,samsung,SAMSUNG-SM-G930A,Android: 8.0.0; 3.18.71-14306562,No,G930AUCU4CRI2,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.28,
+10/11/2018 21:24:36,Not Working,HUAWEI,FRD-L09,Android: 8.0.0; 4.4.23 ,No,"21.258.09.00.030,21.258.09.00.030",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.31,"Android kill the app in the background with priority battery access and notifications option active, so the app is unable to register calls and if you close the calling the app fail to recording "
+10/12/2018 17:29:29,Voice Line Quality,HUAWEI,WAS-LX1A,"Android: 7.0, 4.1.18-g4b8aedc",No,"21.287.00.00.050,21.287.00.00.050",Auto (default),"3gp, aac",User Installed,1.6.5,
+10/12/2018 17:30:34,Voice Line Quality,HUAWEI,WAS-LX1A,"Android: 7.0, 4.1.18-g4b8aedc",Yes,"21.287.00.00.050,21.287.00.00.050",Auto (default),"3gp, aac",User Installed,1.6.5,
+10/13/2018 8:46:18,Voice Line Quality,samsung,SM-J510F,"Android: 5.1.1, 3.10.49-7829977",Yes,J5108ZHU1APD2,Auto (default),"3gp, aac",System Preinstalled,1.6.5,
+10/13/2018 12:04:58,Voice Line Quality,samsung,SM-J530F,"Android: 7.0, 3.18.14-12274792",Yes,J530FXXU2ARA1,Auto (default),"3gp, aac",User Installed,1.6.5,
+10/13/2018 13:06:38,Voice Line Quality,samsung,SM-J530F,"Android: 7.0, 3.18.14-12274792",Yes,J530FXXU2ARA1,Auto (default),"3gp, aac",User Installed,1.6.5,
+10/14/2018 21:12:52,Not Working,Google,Pixel XL,Android: 9; 3.18.100-g2513d23,No,8996-130181-1806061856,Auto (default),"3gp, aac",User Installed,1.6.31,"Muchas gracias por tu app, la use mucho antes de comprar mi terminal actual. Entiendo que no funciona sin root en Android 9, gracias por tu trabajo ;). Thank you very much for your app, I used it a lot before buying my current terminal. I understand that it does not work without root in Android 9, thanks for your work;)"
+10/17/2018 0:04:15,Voice Line Quality,LGE,LG-M250,"Android: 7.0, 3.18.35",No,"MOLY.LR11.W1552.MD.TC01.LVSF.SP.V1.P11.T9, 2017/06/12 18:38",Auto (default),"3gp, aac",System Preinstalled,1.6.5,
+10/17/2018 4:52:31,No Opponent Side,samsung,SM-J120H,"Android: 5.1.1, 3.10.65-7541827",No,J120HXXU0APD2,Auto (default),"3gp, aac",User Installed,1.6.5,
+10/17/2018 4:54:06,Voice Line Quality,samsung,SM-J120H,"Android: 5.1.1, 3.10.65-7541827",No,J120HXXU0APD2,Auto (default),"3gp, aac",User Installed,1.6.5,
+10/19/2018 16:34:53,Voice Line Quality,HUAWEI,Che2-UL00,Android: 4.4.2; 3.10.49-g07fd309,Yes,"22.325.08.00.00,22.325.08.00.00",Voice Line,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.31,
+10/20/2018 20:30:43,Voice Line Quality,samsung,SM-J510H,"Android: 7.1.1, 3.10.49-12476914",No,J510HXXU2BRG1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,
+10/21/2018 10:31:37,Voice Line Quality,LGE,LG-M700,"Android: 7.1.1, 3.18.31-perf-g3ebd48e",No,MPSS.TA.2.3.c4-00024-8940_GEN_PACK-1.107755.2.114448.1,Voice Line,"3gp, aac",User Installed,1.6.5,
+10/21/2018 11:26:49,Not Working,Xiaomi,Redmi 5A,Android: 7.1.2; 3.18.31-perf-g4eb8fa9,No,MPSS.JO.3.0-00369-8937_GENNS_PACK-2_V045,Voice Line,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.31,
+10/23/2018 1:09:16,Not Working,HUAWEI,HUAWEI TIT-U02,"Android: 5.1, 3.10.72",No,"MOLY.WR8.W1449.MD.WG.MP.V29.5.P1, 2015/12/22 14:11",Auto (default),"3gp, aac",User Installed,1.6.5,سلام وقت بخیر ظبط می‌کند ولی صدا ندارد
+10/23/2018 1:11:14,خالی ظبط می‌کند,HUAWEI,HUAWEI TIT-U02,"Android: 5.1, 3.10.72",No,"MOLY.WR8.W1449.MD.WG.MP.V29.5.P1, 2015/12/22 14:11",Auto (default),"3gp, aac",User Installed,1.6.5,سلام وقت بخیر ظبط می‌کند ولی صدا ندارد
+10/23/2018 3:35:24,Suggest,samsung,SM-J120G,Android: 5.1.1; 3.10.9-12877314,No,J120GDDU1ARA1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.31,Right and left sliding for deletion and rename like Todo of Microsoft.
+10/23/2018 20:45:51,Voice Line Quality,samsung,SM-A710F,"Android: 7.0, 3.10.61-11234767",No,A710FDXXU2CQE1,Auto (default),"3gp, aac",User Installed,1.6.5,
+10/28/2018 9:17:06,Voice Line Quality,HUAWEI,HUAWEI VNS-L21,Android: 7.0; 4.1.18-g6c731f2,Yes,"21.288.05.00.050,21.288.05.00.050",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.31,
+10/28/2018 13:22:45,Voice Line Quality,OnePlus,ONE E1001,Android: 6.0.1; 3.4.0-perf-ge4f53e4,No,0.1.c1.11-00006-M8974AAAAANAZM-1,Voice Line,"3gp, aac",User Installed,1.6.31,
+11/3/2018 21:49:45,Mic Quality,samsung,GT-I9060I,"Android: 4.4.4, 3.10.17-1139335",No,I9060IXXU0APJ3,Auto (default),"3gp, aac",User Installed,1.6.5,
+11/8/2018 8:01:25,Voice Line Quality,FUJITSU,F-04G,Android: 6.0.1; 3.10.84,No,7074.0101.0100,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.35,
+11/9/2018 10:23:47,No Opponent Side,LG,Nexus 5X,Android: 8.1.0; 3.10.73-ge7ca7a4,Yes,M8994F-2.6.41.5.01,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.31,
+11/10/2018 4:57:45,Mic Quality,HUAWEI,HUAWEI LUA-U22,"Android: 5.1, 3.10.72 ",No,"MOLY.WR8.W1449.MD.WG.MP.V32.P10, 2016/03/17 14:33",Auto (default),"3gp, aac",User Installed,1.6.5,
+11/10/2018 10:43:42,"Always appearinng ""recording enabled"" notification is annoying..",samsung,SM-J120G,Android: 5.1.1; 3.10.9-12877314,No,J120GDDU1ARA1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.35,
+11/11/2018 13:09:30,Mic Quality,BlackBerry,BBB100-2,Android: 8.1.0; 3.18.71-perf-ge4f181f,No,MPSS.TA.2.3.c1-00723-8953_GEN_PACK-1.160188.0.162519.1,Camcoder,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.35,
+11/11/2018 14:59:13,Mic Quality,HUAWEI,ALE-L21,"Android: 6.0, 3.10.86-g9864f0c",No,"22.300.06.00.00,22.300.06.00.00",Voice Recognition,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,
+11/12/2018 9:17:21,Voice Line Quality,HUAWEI,HUAWEI TAG-L21,"Android: 5.1, 3.10.65",Yes,"MOLY.LR9.W1444.MD.LWTG.MP.V35.P56, 2016/03/16 15:16",Voice Line,"3gp, aac",User Installed,1.6.5,
+11/12/2018 15:44:14,Voice Line Quality,LGE,LG-K520,Android: 6.0.1; 3.10.49-g260952c,No,MPSS.DPM.2.0.c11-00058-M8936FAAAANUZM-4.59451.1.59815.1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.35,Brilliant work. Love the app. How di donate?
+11/12/2018 15:46:08,Voice Line Quality,LGE,LG-K520,Android: 6.0.1; 3.10.49-g260952c,No,MPSS.DPM.2.0.c11-00058-M8936FAAAANUZM-4.59451.1.59815.1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.35,Update. In landscape mode the screen flicks badly playing a recording.
+11/15/2018 18:57:38,Voice Line Quality,OnePlus,A0001,Android: 9; 3.4.113-tugapower-lineageos,Yes,DI.3.0.c6-00241-M8974AAAAANAZM-1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.35,"Some issues: 1. remote voice almost not hearable, own voice loud and clear. This makes the app for me unusable. Maybe solution is to save left and right channel separate to own voice and remote end. Therefor, manual correction is possible. 2. in Pie, the app is incappable of saving the caller ID vor Contact Name in the Filename. You never know which recording belongs to which contact. Also the app does not know."
+11/16/2018 17:05:19,Voice Line Quality,Motorola,Moto G Play,Android: 7.1.2; 14.1-20180803-NIGHTLY-harpia; 3.10.49-g7234f81,Yes,M8916_20250106.08.05.24R,Auto (default),"3gp, aac",User Installed,1.6.35,
+11/17/2018 5:53:03,Mic Quality,HUAWEI,HUAWEI G610-U20,"Android: 4.2.1, 3.4.5",Yes,"MOLY.WR8.W1248.MD.WG.MP.V5.P11, 2014/02/20 01:39",Auto (default),"3gp, aac",User Installed,1.6.5,
+11/19/2018 22:26:51,Not Working,HUAWEI,HUAWEI VNS-L31,"Android: 7.0, 4.1.18-gff26384",No,"21.288.05.00.050,21.288.05.00.050",Auto (default),"3gp, aac",User Installed,1.6.18,
+11/21/2018 14:09:24,No Opponent Side,samsung,SM-G950F,Android: 7.0; 4.4.13-12502673,No,G950FXXU1AQK7,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.35,
+11/21/2018 16:32:37,No Opponent Side,LAVA,Z60,Android: 7.0; 3.18.35,No,"MOLY.LR9.W1444.MD.LWTG.MP.V110.5.P55, 2017/12/14 10:45",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1,I tried all the source but opponent voice not recorded
+11/23/2018 8:06:50,Mic Quality,HMD Global,Nokia 6.1,Android: 9; 4.4.146-perf ,No,"MPSS.AT.3.1-00770-GEN_PACK-1,MPSS.AT.3.1-00770-GEN_PACK-1",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.35,
+11/25/2018 18:47:07,Voice Line Quality,asus,ASUS_Z00AD,Android: 6.0.1; 3.10.72-x86_64_moor-g0b04c60,Yes,"1603_5.0.68.9_0810,1546_7.0.30.0_0427",Auto (default),"3gp, aac",User Installed,1.6.36,On an ASUS Zenfone 2. Works well on aac. Some odd clicking noises all throughout the recording on flac and opus. Didn't try other formats.
+11/26/2018 22:37:59,No Opponent Side,Xiaomi,Redmi Note 4,Android: 7.0; 3.18.31-perf-g4349b70,No,953_GEN_PACK-1.148143.1.163979.1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.36,
+11/29/2018 16:09:06,Класс,BQru,BQru-4072,Android: 7.0; 3.10.65-g50b1cfc,No,TM_BASE_W17.14.5|sc7731C_CP0_modem|04-07-2017 14:07:41,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.35,Супер всё пишет 
+11/30/2018 10:04:28,Mic Quality,OnePlus,ONEPLUS A3003,Android: 8.0.0; 3.18.66-perf ,Yes,MPSS.TH.2.0.c1.9-00102-M8996FAAAANAZM-1.99649.1.118107.1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.36,
+11/30/2018 10:37:11,Voice Line Quality,samsung,SM-G955F,Android: 8.0.0; 4.4.111-14315050-QB19886130,No,G955FXXU4CRI1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.36,
+11/30/2018 20:34:58,Not Working,samsung,SM-G950F,Android: 8.0.0; 4.4.111-14315050-QB19886084,No,G950FXXU4CRI1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.36,
+12/1/2018 4:06:20,Mic Quality,samsung,SM-N9005,Android: 5.0; 3.4.0-4540543,No,N9005XXUGBOJ1,Auto (default),"3gp, aac",User Installed,1.6.31,
+12/1/2018 9:21:47,Not Working,Google,Pixel 2,Android: 9; 4.4.116-g62fd7c7873da,No,g8998-00253-1809191716,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.36,
+12/1/2018 11:31:54,Not Working,samsung,SM-G930F,Android: 8.0.0; 3.18.91-13895453-QB20038647,No,G930FXXU3ERHC,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.36,Only record my voice
+12/2/2018 5:37:12,Voice Line Quality,ZTE,N817,Android: 4.4.4; 3.4.0-gaa480ec,No,N817B01,Auto (default),"3gp, aac",User Installed,1.6.36,Works perfectly on this stock assurance wireless phone.
+12/2/2018 7:28:39,No Opponent Side,motorola,Moto C Plus,Android: 7.0; 3.18.35 ,No,"MOLY.LR9.W1444.MD.LWTG.MP.V110.5.P35, 2018/09/11 19:13",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.36,
+12/3/2018 11:20:36,Voice Line Quality,LENOVO,Lenovo A3500-HV,"Android: 4.4.2, 3.4.67",No,"MOLY.WR8.W1315.MD.WG.MP.V34.P6, 2014/07/04 03:03",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,
+12/4/2018 10:31:26,Not Working,samsung,SM-J730F,Android: 8.1.0; 3.18.14-14309734-QB20618257,No,J730FXXU3BRK2,Voice Line,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.36,bluetooth jabra headset doesn.t record voices
+12/4/2018 18:14:14,Low Bandwidth,Xiaomi,Mi A1,Android: 8.1.0; 3.18.71-perf-g022146d,No,.TA.2.3.c1-00723-8953_GEN_PACK-1,Voice Line,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.38,
+12/7/2018 12:32:52,Not Working,motorola,moto g(6),Android: 8.0.0; 3.18.71-perf-g475fd10,No,M450_08.14.10.61R ALI_LATAMDSDS_CUST,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.38,"Indicates ""recording"" when in line, but still shows recording list is empty"
+12/8/2018 13:31:28,Not Working,HUAWEI,JKM-LX1,Android: 8.1.0; 4.4.103 ,No,"21C20B371S000C000,21C20B371S000C000",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.38,
+12/8/2018 15:07:42,No Opponent Side,samsung,SM-J730F,Android: 8.1.0; 3.18.14-14309734-QB20618257,No,J730FXXU3BRK2,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.38,
+12/8/2018 21:26:55,Зокрывается приложение с ошибкой когда переименовываешь записи,Xiaomi,Redmi Note 3,Android: 9; 3.10.108-lineageos-g41c875402f6c,Yes,"976_GEN_PACK-1.103654.1.105572.1,976_GEN_PACK-1.103654.1.105572.1",Camcoder,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.38,
+12/10/2018 11:08:50,Low Bandwidth,motorola,Moto G (5) Plus,Android: 8.1.0; 3.18.71-perf-g70fa69f,No,M8953_41.50.07.82R POTTER_INDIADSDS_CUST,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.38,
+12/10/2018 21:14:50,Voice Line Quality,LENOVO,Lenovo A3500-HV,"Android: 4.4.2, 3.4.67",No,"MOLY.WR8.W1315.MD.WG.MP.V34.P6, 2014/07/04 03:03",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,
+12/16/2018 10:04:30,Mic Quality,LGE,LG-H850,Android: 7.0; 3.18.31,No,MPSS.TH.2.0.c1.4-00047-M8996FAAAANAZM-1.101802.1.104970.1,Voice Recognition,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.40,Thanks for all.
+12/17/2018 20:36:20,No Opponent Side,BQ,BQS-5025,Android: 6.0.1; 3.10.49-g12ec2e6-00218-gcb796ba,No,c3-00010-8909_GEN_PACK-1.55231.2,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.35,Гавно
+12/18/2018 16:24:19,Voice Line Quality,samsung,SM-J320H,"Android: 5.1.1, 3.10.65-13027357",No,J320HXXU0AQI1,Auto (default),"3gp, aac",User Installed,1.6.5,
+12/20/2018 22:57:54,Not Working,samsung,SM-G532F,"Android: 6.0.1, 3.18.19-13534163",Yes,G532FXXU1ARB1,Auto (default),"3gp, aac",User Installed,1.6.5,
+12/21/2018 7:05:30,Voice Line Quality,samsung,SM-G950F,Android: 8.0.0; 4.4.111-14315050-QB20291538,No,G950FXXU4CRI1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.40,
+12/21/2018 19:48:56,Voice Line Quality,motorola,XT1706,Android: 6.0; 3.18.19 ,No,"TAIDO.ROW.V31, 2018/07/06 11:28",Voice Line,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.40,Excellent application. Shared with friends & family. Thank you for putting lots of effort in your work. Definitely an essential software! 
+12/22/2018 11:37:16,Voice Line Quality,samsung,SM-N910C,Android: 6.0.1; 3.10.9-10932686,No,N910CXXU1DQG1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.40,Super
+12/23/2018 21:07:08,No My Side,samsung,GT-I9060I,"Android: 4.4.4, 3.10.17-1139335",No,I9060IXXU0APJ3,System Default,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,
+12/24/2018 6:24:15,Mic Quality,HTC,HTC U11 plus,Android: 8.0.0; 4.4.78-perf-g672f43b,Yes,8998-002772-1712201227,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.40,MIC works only. Gain isn't very high. Using stock Android. It always reverts to MIC. Can't do anything about it. Still works better than any app from Google Play Store. 
+12/24/2018 19:25:05,Voice Line Quality,Sony,F8331,Android: 8.0.0; 3.18.66-perf-gd5ec1d77090d,No,8996-8996.gen.prodQ-00070-42,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.40,
+12/25/2018 9:56:16,Voice Line Quality,samsung,GT-S6102,Android: 2.3.6; 2.6.35.7,Yes,unknown,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.40,
+12/27/2018 18:15:50,Voice Line Quality,Acer,E350,Android: 4.0.3; 3.0.13,Yes,Acer_AV041_MT6575_E350_1.000.23,Mic,"3gp, aac",User Installed,1.6.40,"I use these settings, it seems work fine so far, thx."
+12/27/2018 22:25:06,Not Working,samsung,SM-A720F,"Android: 7.0, 3.18.14-12059577",No,A720FXXU2BQI6,Auto (default),"3gp, aac",User Installed,1.6.5,
+12/28/2018 6:20:38,No Opponent Side,motorola,MotoG3,Android: 6.0.1; 3.10.49-g2e9678a,No,M8916_2020632.44.03.21.54.01R OSPREY_APAC_CUST,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.40,
+12/29/2018 6:05:03,Voice Line Quality,vivo,vivo 1812,Android: 8.1.0; 4.9.77 ,Yes,MOLY.LR12A.R2.MP.V32.21.P66,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.40,
+12/30/2018 16:46:24,Voice Line Quality,samsung,SM-J510FN,Android: 7.1.1; 3.10.49-12476963,No,J510FNXXU2BRE1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.40,
+12/31/2018 3:16:54,Voice Line Quality,samsung,SM-J260F,"Android: 8.1.0, 3.18.14-13965529-QB19590987",No,J260FXXU1ARGF,Auto (default),"3gp, aac",User Installed,1.6.5,
+1/3/2019 1:31:28,Mic Quality,samsung,SM-A520F,Android: 8.0.0; 3.18.14-13712092-QB20832987,No,A520FXXU7CRK7,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.40,
+1/3/2019 8:40:04,Not Working,samsung,SM-J210F,Android: 6.0.1; 3.10.65-14587778,No,J210FXXU0ARH1,VoIP,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.40,
+1/7/2019 19:26:41,Voice Line Quality,samsung,SM-J701F,"Android: 8.1.0, 3.18.14-14118408-QB19847316",Yes,J701FXXU6BRI2,Voice Recognition,"ogg, wav, flac, m4a, mp3, opus",User Installed,چرا میخواهی ان را مثل میخواهم یکار کنم که هروقت خواستم ضبط میخواهم کنم بیاید وان Noبزنی,
+1/8/2019 9:06:01,Voice Line Quality,HUAWEI,CHM-U01,"Android: 4.4.2, 3.10.49-g4dd578c",No,"21.300.08.00.00,21.300.08.00.00",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,
+1/9/2019 16:43:59,Upload,motorola,Moto G (4),Android: 7.0; 3.10.84-gb9596e1,No,M8952_70030.25.03.62R ATHENE_LATAM_CUST,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.40,Upload to drive options
+1/11/2019 20:08:30,درموزیک بایگانی میشودچطورحذف کنیم جای دیگربایگانی شود,samsung,SM-G610F,"Android: 8.1.0, 3.18.14-14381225-QB20123197",No,G610FDDU1CRJ1,Voice Line,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,
+1/11/2019 21:36:10,No Opponent Side,samsung,SM-G900F,Android: 6.0.1; 3.4.0-14131106,No,G900FXXU1CQA2,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.40,
+1/12/2019 17:05:35,Voice Line Quality,Google,Pixel,Android: 8.1.0; 3.18.70-Lineage-g54b61ef,Yes,8996-130181-1806061856,Voice Line,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.40,"Works fine with magisk.
+My steps,
+1 install
+2 select .ogg
+3 reboot"
+1/12/2019 17:10:11,Not Working,samsung,SM-J110H,"Android: 4.4.4, 3.10.17-1184395",No,J110HXXU0APH4,Auto (default),"3gp, aac",User Installed,1.6.5,
+1/16/2019 15:19:56,Mic Quality,HMD Global,Nokia 6.1,Android: 9; 4.4.146-perf ,No,"MPSS.AT.3.1-00770-GEN_PACK-1,MPSS.AT.3.1-00770-GEN_PACK-1",Auto (default),"3gp, aac",User Installed,1.6.41,"Pl.both side call I want to save.
+"
+1/16/2019 15:22:19,Voice Line Quality,HUAWEI,WAS-LX1A,"Android: 8.0.0, 4.4.23 ",Yes,"21C60B269S003C000,21C60B269S003C000",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,
+1/17/2019 20:44:27,No Opponent Side,samsung,SM-J700F,Android: 6.0.1; 3.10.61-14595124,No,J700FXXU4BRG1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.41,
+1/19/2019 22:12:59,No Opponent Side,Sony,H4113,Android: 8.0.0; 4.4.78-perf ,No,20180829_BY12O_Daily,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.41,
+1/20/2019 15:54:52,Voice Line Quality,samsung,GT-I9515,Android: 5.0.1; 3.4.0-11199492,No,I9515XXU1BQD2,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.41,Works fine
+1/22/2019 11:15:27,Voice Line Quality,HUAWEI,Y635-L21,Android: 4.4.4; 3.10.28-g0761a13,No,11060045,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.36,Work fine :-)  thanks
+1/23/2019 21:50:03,Not Working,ZTE,ZTE BLADE A610C,Android: 6.0; 3.18.19 ,No,"MOLY.LR9.W1444.MD.LWTG.MP.V79.P31, 2016/09/27 21:56",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.40,"Говно а не прога
+
+
+
+
+
+
+
+
+Пидарасы
+
+"
+1/28/2019 15:47:51,No My Side,samsung,SM-J260F,"Android: 8.1.0, 3.18.14-13965529-QB19593564",Yes,J260FXXU1ARGF,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,
+1/29/2019 23:25:33,Voice Line Quality,HMD Global,Nokia 6.1,Android: 8.1.0; 4.4.78-perf ,No,MPSS.AT.3.1-00612-GEN_PACK-1.143552.1.145198.2,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.41,
+2/1/2019 14:47:30,Voice Line Quality,samsung,SM-N910C,Android: 6.0.1; 3.10.9-12947489,No,N910CXXU1DPI1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.41,working  well 
+2/4/2019 13:07:27,Voice Line Quality,samsung,SM-A310F,"Android: 7.0, 3.10.61-11350514",Yes,A310FXXU3CQK2,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,
+2/5/2019 19:20:49,No My Side,samsung,SM-J250F,Android: 7.1.1; 3.18.31-14770024,No,J250FDXU2ARI1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.41,
+2/5/2019 19:21:17,Voice Line Quality,samsung,SM-J250F,Android: 7.1.1; 3.18.31-14770024,No,J250FDXU2ARI1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.41,
+2/6/2019 12:44:47,No Opponent Side,samsung,SM-A530F,Android: 8.0.0; 4.4.13-13824581-QB19241840,No,A530FXXU3BRG1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.40,
+2/8/2019 0:31:02,Voice Line Quality,HMD Global,Nokia 7.1,Android: 9; 4.4.153-perf ,No,MPSS.AT.3.1-00777-GEN_PACK-1.175648.4.179063.2,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.41,
+2/11/2019 12:11:56,No Opponent Side,HUAWEI,HUAWEI Y330-U01,"Android: 4.2.2, 3.4.5",Yes,"MOLY.WR8.W1315.MD.WG.MP.V15.P11, 2014/05/17 08:18",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.509891253939393957,0989125939393939357
+2/11/2019 13:22:06,No Opponent Side,OnePlus,ONEPLUS A5010,Android: 9; 4.4.174-RedFlare-Kernel-v4.11,Yes,MPSS.AT.2.0.c4.7-00070-8998_GEN_PACK-2.132073.1.179387.1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.41,Sigh :(
+2/11/2019 15:23:41,Not Working,samsung,SM-J410F,"Android: 8.1.0, 3.18.71-14467434",Yes,J410FXXU1ARJF,Auto (default),"3gp, aac",User Installed,1.6.5,
+2/13/2019 18:38:26,Voice Line Quality,samsung,GT-I9300I,"Android: 4.3, 3.4.0-2566126",No,I9300IXXUAND1,Auto (default),"3gp, aac",User Installed,1.6.5,
+2/19/2019 0:16:09,Voice Line Quality,samsung,SM-J710F,"Android: 7.0, 3.18.14-12247481",No,J710FXXU3BQJ5,Auto (default),"3gp, aac",User Installed,1.6.5,
+2/19/2019 18:48:17,Voice Line Quality,HUAWEI,HUAWEI SCL-U31,"Android: 5.1.1, 3.10.49-g33ceeea",Yes,11306101,Auto (default),"3gp, aac",System Preinstalled,1.6.5,
+2/19/2019 19:49:31,Not Working,samsung,SM-C7000,"Android: 7.0, 3.18.31-12482124",No,C7000ZHU3BRG1,Auto (default),"3gp, aac",User Installed,1.6.5,
+2/22/2019 10:52:59,no recording of incoming calls at all,HMD Global,TA-1004,Android: 9; 4.4.153-perf ,No,"MPSS.AT.2.0.c4-00984-8998_GEN_PACK-1.177141.6,MPSS.AT.2.0.c4-00984-8998_GEN_PACK-1.177141.6",System Default,"3gp, aac",User Installed,1.6.41,Outgoing calls are recorded but none of the incoming. Any way to fix this? Thanks for the app.
+2/22/2019 19:27:13,Not Working,asus,ASUS_X00TD,Android: 8.1.0; 4.4.78-perf ,No,660_GEN_PACK-1.163573.0.166136.1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.41,"Was  working Extremely Fine and I still Like using it in Other phone.
+noticed Stopped working Recently 
+
+showing status:Not working"
+2/23/2019 22:28:13,Voice Line Quality,LGE,LG-K130,"Android: 5.1.1, 3.10.65",Yes,MOLY.LR9.W1530.MD.LWTG.TC01.SP.E1LTE.V1.P14,Auto (default),"3gp, aac",User Installed,1.6.5,
+2/23/2019 22:29:42,Voice Line Quality,Marshal,ME-352,"Android: 4.2.2, 3.4.5",No,"MOLY.WR8.W1315.MD.WG.MP.V1.P11, 2014/07/23 16:46",Auto (default),"ogg, wav, flac, m4a, mp3, opus",System Preinstalled,1.6.5,
+2/23/2019 22:29:57,Voice Line Quality,Marshal,ME-352,"Android: 4.2.2, 3.4.5",No,"MOLY.WR8.W1315.MD.WG.MP.V1.P11, 2014/07/23 16:46",Auto (default),"ogg, wav, flac, m4a, mp3, opus",System Preinstalled,1.6.5,
+2/25/2019 11:20:29,Low Bandwidth,Xiaomi,Mi A2 Lite,Android: 9; 3.18.120-perf-gee32abd,No,"953_GEN_PACK-1.182577.1.184854.2,953_GEN_PACK-1.182577.1.184854.2",System Default,"3gp, aac",User Installed,1.6.41,"For incoming calls, the filename doesn't have phone number or caller name."
+2/26/2019 14:31:00,Voice Line Quality,HMD Global,TA-1053,Android: 9; 3.18.120-perf,No,"MPSS.JO.3.1-00171-8937_GENNS_PACK-1.180096.1,MPSS.JO.3.1-00171-8937_GENNS_PACK-1.180096.1",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.40,On versions above 1.6.40 recording is not working so I decided to downgrade to 1.6.40
+3/1/2019 1:05:38,Voice Line Quality,samsung,SM-G350,Android: 4.2.2; 3.4.5-2930239,No,G350XXUAPG1,Auto (default),"3gp, aac",User Installed,1.6.43,very usefull
+3/1/2019 7:39:05,فارسی,samsung۷,SM-G570F,"Android: 8.0.0, 3.18.14-14263629-QB19595919",No,G570FXXU1CRH8,Auto (default),"3gp, aac",User Installed,1.6.5,
+3/1/2019 15:31:28,Voice Line Quality,motorola,XT1039,Android: 7.1.2; 14.1-20190207-NIGHTLY-peregrine; 3.4.113-g22bc4ed,Yes,M8926_309101.02.03.14R,Voice Line,"3gp, aac",User Installed,1.6.43,Automatic source does not work however manually selecting Voice Line with aac encoding works like a charm 
+3/2/2019 6:26:05,Mic Quality,Google,Pixel,Android: 9; 3.18.122-g8cf5239d58fd,No,8996-130181-1811270246,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.43,"1, Recording works, but sound is low. 400% volume makes it better, though not fully satisfying at least usable.
+2, Hope there could be exempt list from recording in future to skip private calls with specific contacts."
+3/2/2019 15:12:21,Voice Line Quality,OnePlus,ONE A2003,Android: 8.1.0; 3.10.108-Cold.AF ,Yes,MPSS.BO.2.6.2.c1-00072-M8994FAAAANAZM-1.82470.1,Voice Line,"3gp, aac",User Installed,1.6.43,
+3/2/2019 17:58:12,Mic Quality,motorola,XT1685,Android: 8.1.0; 3.18.113-lineage ,Yes,M8953_37.46.07.47.01R,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.43,"Always fallbacks to mic. Tried all sources and ogg/aac encoding. Device supports direct call recording (as a reference, ACR records calls perfectly with any encoder and VOICE_COMMUNICATION source). Regards."
+3/4/2019 8:04:15,Список записанных вызовов,Xiaomi,Redmi 4A,Android: 7.1.2; 3.18.31-perf-gf2fd6b0,No,MPSS.JO.3.0-00369-8937_GENNS_PACK-2.141921.1.149578.1_V009,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.44,"Запись производится (файлы есть), но список записей в самой программе всегда пуст"
+3/10/2019 17:13:14,Mic Quality,HUAWEI,PRA-LA1,"Android: 8.0.0, 4.4.23 ",No,"21C60B269S003C000,21C60B269S003C000",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,
+3/10/2019 17:13:18,Mic Quality,HUAWEI,PRA-LA1,"Android: 8.0.0, 4.4.23 ",No,"21C60B269S003C000,21C60B269S003C000",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,
+3/11/2019 16:31:55,No Opponent Side,HUAWEI,PRA-LA1,"Android: 8.0.0, 4.4.23 ",No,"21C60B269S003C000,21C60B269S003C000",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,
+3/12/2019 17:30:18,خوب نیست,samsung,SM-J320F,"Android: 5.1.1, 3.10.65-15063874",No,J320FXXU0ARL2,Auto (default),"3gp, aac",User Installed,1.6.5,
+3/13/2019 23:38:37,Voice Line Quality,lge,LG-D802,Android: 8.1.0; 3.4.113-Lineage-gb5ef268,No,M8974A-AAAANAZM-1.0.190128,Auto (default),"3gp, aac",User Installed,1.6.44,Everything work as far as I can tell. Rec quality is good enough for me.
+3/15/2019 10:01:37,Mic Quality,Sony,D6603,Android: 6.0.1; 3.4.0-perf-gc14c2d5,No,8974-AAAAANAZQ-00112-61,Mic,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.44,Karsı tarafın sesi gelmiyor 
+3/18/2019 16:23:30,Voice Line Quality,HUAWEI,MYA-L22,"Android: 6.0, 3.18.19 ",No,MOLY.LR9.W1444.MD.LWTG.MP.V94.P66,Auto (default),"3gp, aac",User Installed,1.6.5,
+3/18/2019 23:34:51,"Solo me graba a mi, no a la otra persona. No sirve.",samsung,SM-G930T,Android: 8.0.0; 3.18.71-14365146,No,G930TUVS9CSB2,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.44,
+3/22/2019 19:54:56,No Opponent Side,Sony,D5803,Android: 6.0.1; 3.4.0-perf-gc14c2d5,Yes,8974-AAAAANAZQ-00112-61,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.44,"{Unable to configure system mixer: android.system.ErrnoException: system/bin/sh: <stdin>[4373]: can't create system/etc/mixer_paths.xml: Read-only filesystem. 
+Failed: EPERM}
+Tried to mount system rw using terminal, still no luck."
+4/1/2019 8:59:47,Mic Quality,motorola,XT1022,Android: 4.4.4; 3.4.42-g6bc7ff3,No,"MSM8610BP_1034.307.26.02P, EMEA_DSDS_CUST",Auto (default),"3gp, aac",User Installed,1.6.29,
+4/2/2019 18:14:55,Voice Line Quality,OnePlus,ONEPLUS A3003,Android: 9; 3.18.120-lineageos-g499e7d4,No,MPSS.TH.2.0.c1.9-00102-M8996FAAAANAZM-1.99649.1.118107.1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.44,"Hi, it seems that since lineage has update to 16.0 your app doesnt work any more... It's top bad i use it everyday for my lack of memory and sensitives calls! :-)/good job"
+4/3/2019 19:56:31,Not Working,OnePlus,ONEPLUS A5010,Android: 9; 4.4.153-perf ,No,MPSS.AT.2.0.c4.7-00070-8998_GEN_PACK-2.132073.1.179387.1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.44,
+4/6/2019 15:43:35,No Opponent Side,samsung,SM-N960F,Android: 9; 4.9.59-15135523,No,"N960FXXU2CRLT,N960FXXU2CRLT,N960FXXU2CRLT",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.44,So I need root right?
+4/6/2019 19:18:28,Voice Line Quality,samsung,SM-J510FN,Android: 9,Yes,"J510FNXWU2BRE1,J510FNXWU2BRE1",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.44,"Very good app. It would be more excellent, if there would be a capture button at the incoming call screen to quickly decide."
+4/8/2019 9:29:57,Mic Quality,HMD Global,TA-1004,Android: 9; 4.4.153-perf ,No,"MPSS.AT.2.0.c4-00984-8998_GEN_PACK-1.177141.6,MPSS.AT.2.0.c4-00984-8998_GEN_PACK-1.177141.6",System Default,"3gp, aac",User Installed,1.6.44,"Hi, i have feature request: automatic deletion of recording shorter than X seconds :) "
+4/10/2019 0:25:17,Mic Quality,motorola,moto e5 play,Android: 8.0.0; 3.18.71-perf-g235ff17,No,M8920TMO_21.11.11.63R JAMES_NA_CA_CUST,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.44,
+4/11/2019 16:56:16,I don't have words to express how bad it is!,OnePlus,ONEPLUS A6010,Android: 9; 4.9.106-perf ,No,MPSS.AT.4.0.c2.15-00007-SDM845_GEN_PACK-1.167997.2.171752.2,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.44,Stop wasting people's time. You app is just another crap! Take it down.
+4/15/2019 15:15:37,Voice Line Quality,samsung,SM-J700T1,Android: 7.1.1; 3.10.61-12275735,No,J700T1UVU3BQK3,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.44,Very good
+4/15/2019 22:44:17,Not Working,l,TA-1032,"Android: 8.1.0, 3.18.79 ",No,"MOLY.LR9.W1444.MD.LWTG.MP.V200.4.P4, 2018/12/19 04:01",Auto (default),"3gp, aac",User Installed,1.6.5,
+4/16/2019 0:34:38,Voice Line Quality,samsung,SM-N920C,Android: 6.0.1; 3.10.61-7764194,No,N920CXXU3IQA1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.41,"Please can you add option ""select"" to easy delete more recorded message."
+4/17/2019 13:53:33,Voice Line Quality,HUAWEI,HUAWEI Y330-U11,"Android: 4.2.2, 3.4.5",Yes,"MOLY.WR8.W1315.MD.WG.MP.V15.P11, 2014/05/17 08:21",Auto (default),"3gp, aac",User Installed,1.6.5,
+4/19/2019 1:34:30,No Opponent Side,motorola,Moto G (5) Plus,Android: 8.1.0; 3.18.71-perf-ge30d5c4,No,M8953_41.50.07.85.01R POTTER_NA_CUST,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.44,
+4/23/2019 12:25:28,No Opponent Side,Xiaomi,Redmi 4A,Android: 9; 3.18.138-Treble,Yes,MPSS.JO.3.0-00369-8937_GENNS_PACK-2.141921.1.149578.1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.44,
+4/25/2019 23:02:14,Voice Line Quality,OnePlus,ONEPLUS A3003,Android: 9; 3.18.120-lineageos-g4a67382,No,MPSS.TH.2.0.c1.9-00102-M8996FAAAANAZM-1.99649.1.118107.1,Auto (default),"3gp, aac",User Installed,1.6.44,Not working anymore since update on lineageos 16 :/ 
+4/26/2019 17:25:04,Voice Line Quality,motorola,moto g(6) plus,Android: 9; 4.4.153-perf-g3d277547,No,M660_25.43.01.89R EVERT_EMEADSDS_CUST,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.44,
+4/26/2019 18:55:06,No Opponent Side,samsung,SM-G960U,Android: 9; 4.9.112-15119402,No,G960USQS3CSAG,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.44,
+4/29/2019 14:33:18,Not Working,asus,ASUS_X00TD,Android: 9; 4.4.153-perf ,No,"S.AT.3.1-00784-SDM660_GEN_PACK-1,S.AT.3.1-00784-SDM660_GEN_PACK-1",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.44,
+4/30/2019 12:29:16,"Tested all modes: recording giod quality, but just in my side",samsung,SM-G930F,Android: 7.0; 3.18.14-12365438,No,G930FXXU2DRB6,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.44,Tested all sources (except RAW)
+5/1/2019 0:12:00,Voice Line Quality,samsung,SM-J510F,"Android: 7.1.1, 3.10.49-12476963",Yes,J510FXXU2BRE1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,
+5/1/2019 18:51:39,Voice Line Quality,samsung,SM-G386W,Android: 4.4.2; 3.4.0-2988301,No,G386WVLS1AQA1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.44,
+5/9/2019 14:15:41,"Whatever input source I choose, the recorded volume remains low. I have also tried all encoder, but recorded result is low volume.",LGE,VS987,Android: 8.0.0; 3.18.71-perf ,No,MPSS.TH.2.0.c1.4-00070-M8996FAAAANAZM-1.159723.2.161091.1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.44,What is the rule formula used when I choose Auto (default) input?
+5/10/2019 0:44:49,Voice Line Quality,HUAWEI,Che2-L11,"Android: 4.4.2, 3.10.49-gb78c20d",Yes,"21.233.00.00.00,21.233.00.00.00",Auto (default),"3gp, aac",User Installed,1.6.5,
+5/11/2019 5:33:30,Voice Line Quality,Sony,G8441,Android: 9; 4.4.178-cryptomilk ,Yes,8998-8998.gen.prodQ-00278-42,Auto (default),"3gp, aac",System Preinstalled,1.6.44,Installed into /system/priv-app using App Systemizer Magisk module. Won't work otherwise (one sided recordings). 
+5/16/2019 3:43:10,Voice Line Quality,samsung,SM-G965F,Android: 9; 4.9.59-15776989,No,"G965FXXU3CSD3,G965FXXU3CSD3",Mic,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.0.0,
+5/16/2019 8:18:06,Voice Line Quality,samsung,SM-G935F,Android: 8.1.0; 3.18.138-g82a60843e3e,No,G935FXXU2ERD6,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.44,Works flawlessly 
+5/17/2019 16:23:41,low volume other party on all sources,LGE,LG-US996,Android: 8.0.0; 3.18.71-perf ,Yes,MPSS.TH.2.0.1.c3-00059-M8996FAAAANAZM-1.169690.6,Voice Line,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.44,"Both sides of conversation are recorded, but other party us very low across all dources and encodings.  Plsying with dofteare gain has no apparent effect."
+5/19/2019 22:20:50,Voice Line Quality,Xiaomi,Mi A1,Android: 9; 3.18.120-perf-gd91300b,No,"953_GEN_PACK-1.182577.1.184854.2,953_GEN_PACK-1.182577.1.184854.2",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.44,Thank you for this awesome software <3
+5/20/2019 4:37:07,Voice Line Quality,samsung,SM-J106M,Android: 6.0.1; 3.10.65-13386411,Yes,J106MUBU0ARD1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.44,Doesn't record incoming calls.
+5/21/2019 11:35:31,Voice Line Quality,Xiaomi,Mi A2,Android: 9; 4.4.153-perf ,No,MPSS.AT.3.1-00777-SDM660_GEN_PACK-1.196355.1.198333.2,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.44,
+5/26/2019 13:34:19,Voice Line Quality,samsung,SM-A750FN,Android: 9; 4.4.111-15516145,No,"A750FNXXU1BSD4,A750FNXXU1BSD4",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.44,"Не работает
+"
+5/30/2019 15:54:24,Not Working,Google,Pixel 2,Android: 9; 4.4.169-g611527edb3f9,No,g8998-00008-1902121845,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.44,
+5/30/2019 23:19:01,Voice Line Quality,samsung,SM-A310F,"Android: 7.0, 3.10.61-11350514",No,A310FXXU3CQK2,Voice Recognition,"3gp, aac",User Installed,1.6.5,
+6/2/2019 11:49:50,Not Working,HUAWEI,FIG-LA1,"Android: 8.0.0, 4.4.23 ",No,"21C60B269S003C000,21C60B269S003C000",Auto (default),"3gp, aac",User Installed,1.6.5,
+6/7/2019 4:13:24,No Opponent Side,HUAWEI,PRA-LX1,Android: 7.0; 4.1.18-g87481ef-dirty,No,"21.288.00.00.050,21.288.00.00.050",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.44,"I tried all recording sources and both encoder types. Only records my own voice still with slightly reduced quality (your amazing Audio Recorder app sounds way more ""clear""). However, the recording automatically starts and stops when it's supposed to do."
+6/7/2019 12:26:55,No Opponent Side,samsung,SM-G960F,Android: 8.1.0; 4.9.133 ,Yes,G960FXXU2BRJ1,Voice Line,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.44,"Tried all options. System RAW is not supported, System default crashed and all others only record my side. On Lineageos 15.1."
+6/13/2019 6:52:10,Voice Line Quality,Xiaomi,Redmi Note 5,Android: 8.1.0; 4.4.78-perf ,No,660_GEN_PACK-1.186057.1.190159.1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.44,
+6/13/2019 13:05:44,Voice Line Quality,samsung,SM-A510F,"Android: 7.0, 3.10.61-12236002",No,A510FXXS8CSC2,Auto (default),"3gp, aac",User Installed,1.6.5,
+6/17/2019 5:40:23,No Opponent Side,HTC,HTC 10,Android: 7.0; 3.18.31-perf-g946e76b,Yes,1.0.U010241a@61226_79.07_F,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.44,"I can record high quality calls using ACR app, from VOICE_COMMUNICATION source without root, but Call Recorder seems to lack that source option so only mic recordering works."
+6/17/2019 6:14:12,Mic Quality,HTC,HTC 10,Android: 7.0; 3.18.31-perf-g946e76b,Yes,1.0.U010241a@61226_79.07_F,VoIP,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.44,"Using ACR app, without root privilege, when setting source to VOICE_COMMUNICATION, the app records Voice Line Quality, but with no combination of Source/Encoding settings in Call Recorder app (This app) I can get the same resaults. Voip source with OGG or AAC gives me Mic Quality, and Voice line or Auto fails to record when I choose MediaRecorder encoding options."
+6/17/2019 15:09:44,Not Working,samsung,SM-N950Fچ۰,"Android: 8.0.0, 4.4.111-13688770-QB21336176",No,N950FXXU5CRK4,Auto (default),"3gp, aac",User Installed,1.6.5,
+6/17/2019 19:34:21,Not Working,asus,ASUS_X01BDA,Android: 9; 4.4.153-perf ,No,"S.AT.3.1-00784-SDM660_GEN_PACK-1,S.AT.3.1-00784-SDM660_GEN_PACK-1",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.46,Not working
+6/21/2019 19:54:01,Not Working,motorola,moto x4,Android: 9; 4.4.153-perf-gf95b07e,No,M660_7042.27.01.89.02R PAYTON_APACDSDS_CUST,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.46,
+6/22/2019 22:12:39,Not Working,samsung,SM-G7102,"Android: 4.4.2, 3.4.0-5102029",No,G7102XXUBOE1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,
+6/24/2019 9:50:53,Voice Line Quality,samsung,SM-G930F,Android: 9; 3.18.140-gb8768556575,Yes,G930FXXU3ERI1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.47,Great!
+6/25/2019 15:35:16,Mic Quality,Sony,Xperia Z1,Android: 4.4.4; 11-20141112-SNAPSHOT-M12-honami; 3.4.0cyanogenmod-g1b20e398,Yes,8974-AAAAANAZQ-10270045-39,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.47,"After installing new version, app does not save any new recordings. It seems that it starts recording at every call but never stops when the call is over. I can't stop it inside the app either. Only solution to stop current recording is to disable automatic recordings from app settings but then the current recording is not saved, just discarded. Earlier versions worked just fine, i can still listen to the recordings from previous versions of the app. My system is old CyanogenMod (now discontinued)."
+6/26/2019 7:17:05,Mic Quality,LGE,LG-H918,Android: 8.0.0; 3.18.71-perf ,Yes,MPSS.TH.2.0.1.c3-00058-M8996FAAAANAZM-1.156374.3.165919.3,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.47,
+6/28/2019 4:13:28,Mic Quality,Motorola,Moto X4,Android: 9; 4.4.176-Pixel ,Yes,M660_7042.27.01.89.01R,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.47,
+6/29/2019 5:34:13,Mic Quality,HUAWEI,FRD-L09,Android: 8.0.0; 4.4.23 ,No,"21.258.09.00.030,21.258.09.00.030",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.47,App never stop recording after register first call. You are forced to kill process. 
+7/2/2019 22:50:03,Mic Quality,OnePlus,ONEPLUS A6013,Android: 9; 4.9.106-perf ,No,MPSS.AT.4.0.c2.15-00007-SDM845_GEN_PACK-1.167997.2.171752.2,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.44,
+7/3/2019 10:35:22,Voice Line Quality,OnePlus,ONE E1001,Android: 6.0.1; 3.4.0-perf-ge4f53e4,No,0.1.c1.11-00006-M8974AAAAANAZM-1,Voice Line,"3gp, aac",User Installed,1.6.50,Work OK. Software icons are small. No easy to understand. 
+7/5/2019 10:37:09,Voice Line Quality,Xiaomi,Mi 6,Android: 9; 4.4.153-eucalyptus,Yes,"AT20-1123_2025_67072ae,AT20-1123_2025_67072ae",Voice Line,"ogg, wav, flac, m4a, mp3, opus",System Preinstalled,1.6.50,
+7/9/2019 0:40:51,Mic Quality,motorola,Moto G (4),Android: 8.1.0; 3.10.84-g4bcbf43,Yes,M8952_70030.25.03.77R ATHENE_INDIA_DSDS_CUST,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.1,
+7/10/2019 20:55:54,Mic Quality,samsung,SM-A750F,"Android: 9, 4.4.111-16070901",Yes,"A750FNXXU1BSE2,A750FNXXU1BSE2",Auto (default),"ogg, wav, flac, m4a, mp3, opus",System Preinstalled,9,G
+7/10/2019 21:01:21,Mic Quality,samsung,SM-A750F,"Android: 9, 4.4.111-16070901",No,"A750FNXXU1BSE2,A750FNXXU1BSE2",Voice Recognition,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,
+7/10/2019 21:01:59,Mic Quality,samsung,SM-A750F,"Android: 9, 4.4.111-16070901",No,"A750FNXXU1BSE2,A750FNXXU1BSE2",Voice Recognition,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,
+7/10/2019 21:02:05,Mic Quality,samsung,SM-A750F,"Android: 9, 4.4.111-16070901",No,"A750FNXXU1BSE2,A750FNXXU1BSE2",Voice Recognition,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,
+7/12/2019 0:57:35,Voice Line Quality,Fairphone,FP2,Android: 6.0.1; 3.4.0-gcde0e65,Yes,4437.1-FP2-0-08,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.3,
+7/14/2019 4:46:43,Low Bandwidth,Sony Ericsson,LT26i,"Android: 4.0.4, 3.0.8 1.0.21100-30145-01956-g43358ca",Yes,8660-AAABQOLYM-314010-22,Auto (default),"3gp, aac",User Installed,1.6.5,
+7/14/2019 15:22:35,Mic Quality,Google,Pixel 2,Android: 9; 4.4.116-gcd42eb7ea34d,No,g8998-00253-1811291732,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.6,
+7/15/2019 14:52:36,Voice Line Quality,samsung,S9,Android: 9; 4.9.59-16162958,No,"G960FXXU5CSF2,G960FXXU5CSF2",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.6,"Only records myself and very low volume from the other side.
+Maybe an volume boost in the recording for the caller would help. "
+7/15/2019 14:58:58,Voice Line Quality,Xiaomi,Mi A1,Android: 9; 3.18.120-perf-gd91300b,No,"953_GEN_PACK-1.182577.1.184854.2,953_GEN_PACK-1.182577.1.184854.2",System Default,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.6,"Works very well. Choose system default as source, to make it work with Bluetooth headset as well."
+7/15/2019 15:01:36,Opponent with low volume,Samsung,S9,Android: 9,No,Unknown,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.6,All source don't work out low volume.
+7/18/2019 6:51:12,Voice Line Quality,SMART,ALPHA,"Android: 5.0.2, 3.10.49",No,.1.0.1.c1-00092-M8936FAAAANVZM-1,Auto (default),"3gp, aac",User Installed,1.6.5,
+7/20/2019 16:38:01,Voice Line Quality,samsung,SM-A605G,"Android: 8.0.0, 3.18.71-14612650",No,A605GDXU3ARK1,Auto (default),"3gp, aac",User Installed,1.6.5,
+7/27/2019 12:41:20,Voice Line Quality,samsung,SM-J710FQ,Android: 7.0; 3.18.14-12710698,Yes,J710FQXXU2BRA2,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.1,
+7/30/2019 18:12:19,Not Working,samsung,SM-J710F,"Android: 8.1.0, 3.18.14-14721103",No,J710FXXU5CRK1,Auto (default),"3gp, aac",User Installed,1.6.5,
+7/30/2019 20:12:16,No Opponent Side,samsung,SM-G950F,Android: 9; 4.4.111-16019454,No,G950FXXU4DSE4,VoIP,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.6,Merci d'avoir essayé 
+7/31/2019 9:28:43,Not Working,HUAWEI,BLN-L21,"Android: 7.0, 4.1.18-gde424dd",No,"21.279.00.00.031,21.279.00.00.031",Auto (default),"3gp, aac",User Installed,1.6.5,
+7/31/2019 9:29:23,Voice Line Quality,HUAWEI,BLN-L21,"Android: 7.0, 4.1.18-gde424dd",No,"21.279.00.00.031,21.279.00.00.031",Auto (default),"3gp, aac",User Installed,1.6.5,Reza
+7/31/2019 9:34:13,Not Working,HUAWEI,BLN-L21,"Android: 7.0, 4.1.18-gde424dd",No,"21.279.00.00.031,21.279.00.00.031",Auto (default),"3gp, aac",User Installed,1.6.5,Reza
+8/5/2019 8:57:29,Voice Line Quality,Xiaomi,MI A2 Lite,Android: 9; 3.18.120-perf-g9bd281d,Yes,"953_GEN_PACK-1.200921.1.202044.1,953_GEN_PACK-1.200921.1.202044.1",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.6,Cool call recorder!
+8/9/2019 12:54:47,Voice Line Quality,samsung,SM-G930F,Android: 7.1.2; 0.7-n-2019062814891-stable-herolte; 3.18.14-g1b5fc11fcdb,No,G930FXXU4ESB1,Voice Line,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.6,
+8/10/2019 22:52:16,Voice Line Quality,Xiaomi,Mi A1,Android: 9; 3.18.120-perf-gd91300b,No,"953_GEN_PACK-1.182577.1.184854.2,953_GEN_PACK-1.182577.1.184854.2",Voice Line,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.6,Ok
+8/14/2019 21:02:37,Voice Line Quality,samsung,SM-J500H,"Android: 6.0.1, 3.10.49-12221778",No,J500HXXU2BQA1,Auto (default),"3gp, aac",User Installed,1.6.5,
+8/15/2019 3:29:56,Voice Line Quality,samsung,SM-J700H,"Android: 6.0.1, 3.10.61-8299335",Yes,J700HXXU3BRB1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",System Preinstalled,1.6.5,
+8/20/2019 14:01:10,No Opponent Side,OnePlus,ONEPLUS A3003,Android: 9; 3.18.120-perf ,No,MPSS.TH.2.0.c1.9-00102-M8996FAAAANAZM-1.197095.1.198697.1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.6,Working perfect without Bluetooth handsfree. I tried all options of sound setting but it isn't recording oponent voice over Bluetooth. Various Bluetooth brands are also checked. 
+8/20/2019 14:59:22,تبنبا,HUAWEI,HUAWEI LUA-U22,"Android: 5.1, 3.10.72 ",No,"MOLY.WR8.W1449.MD.WG.MP.V32.P10, 2016/03/17 14:33",System RAW,"3gp, aac",User Installed,1.6.5,
+8/22/2019 11:06:09,Not Working,motorola,Moto G (5),Android: 8.1.0; 3.18.71-perf-gea366bb-00016-g6e15bdb,No,M8937_46.42.02.75R CEDRIC_EMEADSDS_CUST,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.6,
+8/28/2019 9:34:32,Not Working,samsung,SM-J700H,"Android: 6.0.1, 3.10.61-8299335",No,J700HXXU3BRB1,Auto (default),"3gp, aac",User Installed,1.6.5,Aplication start is failed
+8/29/2019 4:20:31,No Opponent Side,OnePlus,ONEPLUS A6013,Android: 9; 4.9.106-perf ,Yes,MPSS.AT.4.0.c2.15-00007-SDM845_GEN_PACK-1.186223.1.216073.1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.6,Tried many of the sources.
+9/2/2019 0:52:35,Mic Quality,HUAWEI,MAR-LX1M,Android: 9; 4.9.148,Yes,"21C20B388S000C000,21C20B388S000C000",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.6,
+9/5/2019 23:02:00,No Opponent Side,samsung,SM-G973F (s10),Android: 9; 4.14.85-16487963,No,G973FXXU3ASG8,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.6,"Tried all sources, no other side, aac wont work at all"
+9/10/2019 13:14:23,hiiii,hi,hi,hi,No,hi,Mic,"ogg, wav, flac, m4a, mp3, opus",User Installed,hi,hi
+9/16/2019 10:12:52,Not Working,samsung,SM-A505F,Android: 9; 4.14.62-16641116,No,"A505FXXU2ASH2,A505FXXU2ASH2",System Default,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.6,I am trying to record calls and play it. I am unable to hear the other person speaking in the recording. What's the issue?
+9/21/2019 5:26:06,Not Working,HMD Global,Nokia 3.2,Android: 9; 4.9.112-perf ,No,MPSS.JO.3.2-00184-SDM439_GENNS_PACK-1.207169.1.208180.1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.6,Worst no use
+9/21/2019 14:44:34,فارسی,samsung,SM-J700F,"Android: 6.0.1, 3.10.61-12603099",No,J700FXXU4BQC3,Auto (default),"3gp, aac",User Installed,1.6.5,
+9/21/2019 14:45:46,Voice Line Quality,samsung,SM-J700F,"Android: 6.0.1, 3.10.61-12603099",No,J700FXXU4BQC3,Auto (default),"3gp, aac",User Installed,1.6.5,
+9/21/2019 16:38:58,Mic Quality,asus,ASUS_X00TD,Android: 9; 4.4.153-perf ,No,"S.AT.3.1-00784-SDM660_GEN_PACK-1,S.AT.3.1-00784-SDM660_GEN_PACK-1",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.3,Hii nice app can u connect this to what's app so...I can record WA call too...
+9/22/2019 14:45:51,Voice Line Quality,HUAWEI,WAS-LX1A,Android: 7.0; 4.1.18-gf935254,No,"21C60B269S002C000,21C60B269S002C000",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.6,Works well. It misses backup options. Thank you for the free app.
+9/26/2019 17:12:04,Not Working,motorola,Moto G (5S) Plus,Android: 8.1.0; 3.18.71-perf-gebed220,No,M8953_50.59.07.96R SANDERS_NA_CUST,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.6,Your cop-out about Android blocking the use of this app is bogus: the apps on the play store have no problem recording calls without issue.
+9/30/2019 15:46:41,Voice Line Quality,HUAWEI,RNE-L22,Android: 8.0.0; 4.4.23 ,No,"21C60B269S005C000,21C60B269S005C000",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.3,
+9/30/2019 15:50:47,Voice Line Quality,HUAWEI,RNE-L22,Android: 8.0.0; 4.4.23 ,No,"21C60B269S005C000,21C60B269S005C000",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.3,
+9/30/2019 20:21:33,Voice Line Quality,asus,ZB602KL,Android: 9; 4.4.153-perf ,No,"S.AT.3.1-00784-SDM636_GEN_PACK-1,S.AT.3.1-00784-SDM636_GEN_PACK-1",Voice Line,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.6,Add display of recorder conversations according to records in Contacts. 
+10/3/2019 15:15:05,No Opponent Side,HUAWEI,Y9 paraam 2019,Android: 9; 4.9.111,Yes,"21C20B388S000C000,21C20B388S000C000",Voice Recognition,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.3,
+10/3/2019 15:22:10,Voice Line Quality,HUAWEI,STK-L21,Android: 9; 4.9.111,No,"21C20B388S000C000,21C20B388S000C000",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.3,
+10/11/2019 14:16:15,Voice Line Quality,Xiaomi,Mi A1,Android: 9; 4.9.161-perf ,Yes,"953_GEN_PACK-1.181354.1.182577.1,953_GEN_PACK-1.181354.1.182577.1",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.6,
+10/11/2019 14:59:53,Voice Line Quality,HMD Global,Nokia 7.1,Android: 9; 4.4.153-perf ,No,MPSS.AT.3.1-00777-GEN_PACK-1.194128.3.197482.1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.6,In coming call is not recorded by this app.
+10/14/2019 13:45:28,Low Bandwidth,samsung,SM-A310F,"Android: 7.0, 3.10.61-11350514",Yes,A310FXXU3CQK2,System RAW,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,
+10/14/2019 15:49:14,Voice Line Quality,Xiaomi,Redmi Note 5,Android: 9; 4.4.192-Illusion ,Yes,MPSS.AT.3.1-00777-SDM660_GEN_PACK-1.209285.1.210383.1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.6,
+10/15/2019 16:12:50,Voice Line Quality,HMD Global,Nokia 7.1,Android: 9; 4.4.153-perf ,No,MPSS.AT.3.1-00777-GEN_PACK-1.194128.3.197482.1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.6,Incoming recorded call is not saved as per contact name.
+10/15/2019 22:17:12,Voice Line Quality,Xiaomi,POCO F1,Android: 9; 4.9.194-perf-gcfa3703,Yes,"AT4.0.c2.6-301-0911_2036_6e92ccb,AT4.0.c2.6-301-0911_2036_6e92ccb",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.6,Excellent app! Thank you! Please keep up your efforts!
+10/19/2019 23:31:11,No Opponent Side,bq,Aquaris X,Android: 9; 4.9.191-perf ,Yes,".TA.2.3.c1-00759-8953_GEN_PACK-2,.TA.2.3.c1-00759-8953_GEN_PACK-2",Voice Line,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.6,
+10/21/2019 13:45:16,Voice Line Quality,Xiaomi,Redmi Note 4,Android: 9; 3.18.140-LineageOS-gbcbebfa85077,No,"953_GEN_PACK-1.134037.1.138074.1,953_GEN_PACK-1.134037.1.138074.1",Voice Line,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.6,"All sources are almost the same w.r.t audio quality, buy all seem to record from the same location - the mic on the phone as muting in-call also mutes the entire recording (not only my side) and using a Bluetooth headset you cannot hear the other party at all."
+10/22/2019 0:44:45,Not Working,samsung,SM-G965F,Android: 9; 4.9.59-16947752,No,G965FXXU7CSI6,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.6,
+10/25/2019 6:30:59,Mic Quality,Xiaomi,Mi A2,Android: 9; 4.4.153-perf ,No,MPSS.AT.3.1-00777-SDM660_GEN_PACK-1.209285.1.210383.1,Auto (default),"3gp, aac",User Installed,1.2,
+10/26/2019 4:18:01,Voice Line Quality,motorola,moto g(6),Android: 9; 3.18.120-perf-gdae3952,No,M450_20.26.10.84R ALI_APACDSDS_CUST,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.6,App reports Boot notification not received
+10/31/2019 11:22:50,22,samsung,SM-A320F,Android: 8.0.0; 3.18.14-14961013-QB21007520,No,A320FXXU4CRI2,Voice Line,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.6,Отлично
+11/4/2019 0:06:08,Voice Line Quality,motorola,moto g(6) play,Android: 9; 3.18.120-perf-g1627ed5,Yes,M8937_31.39.05.93Z JETER_EMEADSDS_CUST,Voice Line,"ogg, wav, flac, m4a, mp3, opus",System Preinstalled,1.7.6,
+11/4/2019 17:22:38,Voice Line Quality,samsung,SM-G930F,Android: 9; 3.18.140-g4f50ed696fc,Yes,G930FXXS6ESI6,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.6,Finally with LOS it works flawlessly!!!
+11/5/2019 15:34:25,No Opponent Side,Xiaomi,Mi MIX 2S,Android: 9; 4.9.194-perf-gcfa3703,Yes,"AT4.0.c2.6-306-0627_0009_87f662e,AT4.0.c2.6-306-0627_0009_87f662e",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.6,"Hello, remote communication is too low. If I increase the record volume to 115-120% I'm decreasing the speaker life? Thanks"
+11/5/2019 23:02:08,fuck off,fuck off,fuck off,Android,No,fuck off,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,fuck off,fuck off ! NO google !
+11/6/2019 14:01:48,Mic Quality,OPPO,CPH1969,Android: 9; 4.4.146 ,No,"M_V3_P10,M_V3_P10",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.6,Working
+11/13/2019 3:00:19,Mic Quality,OnePlus,ONEPLUS A5010,Android: 9; 4.4.153-blu_spark-OOS,Yes,MPSS.AT.2.0.c4.7-00070-8998_GEN_PACK-2.132073.1.179387.1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.10,"Call recording works perfectly, can hear the person nice and clear quality but my own voice (mic in) is way too quiet. The app needs ability to boost the mic input volume without having to boost the other side"
+11/18/2019 1:49:20,Mic Quality,Xiaomi,MI 5s,Android: 9; 3.18.120-g3c7026e,Yes,"TH20c1.9-0612_0016_70739c4,TH20c1.9-0612_0016_70739c4",VoIP,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.11,
+11/20/2019 14:15:01,Mic Quality,Xiaomi,MI MAX 3,Android: 9; 4.4.192-AFRKernel,Yes,"AT31c7-00027-0903_2250_4d8d181,AT31c7-00027-0903_2250_4d8d181",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.11,For incoming calls caller id ir number is not included into filename
+11/20/2019 20:54:53,No Opponent Side,Xiaomi,Mi A3,Android: 9; 4.14.98-perf ,No,MPSS.AT.4.3.1.c1-00015-NICOBAR_GEN_PACK-1.217874.1_V006,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.10,Other end voice is recorded with very low volume
+11/24/2019 1:16:33,Voice Line Quality,Fairphone,FP3,Android: 9; 4.9.112-perf ,No,".TA.3.0.c1-00565-8953_GEN_PACK-1,.TA.3.0.c1-00565-8953_GEN_PACK-1",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.11,
+11/28/2019 17:27:46,"Suggestion - auto answer, answer greeting, auto hang up",Google,Pixel,Android: 9; 3.18.122-g665c9a1,Yes,8996-130181-1811270246,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.11,"Is it possible to add options and functions to:
+- voice mail mode
+- auto answer after x seconds
+- play pre recorded greeting (optional)
+- play beep prior to recording
+- auto hang up after x seconds
+- mute speaker during record if in voice mail mode
+
+These features would be amazing!!!"
+12/6/2019 5:39:06,Mic Quality,samsung,SM-J337U,Android: 9; 3.18.91-16865600,No,J337UUEU3BSI2,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.44,
+12/8/2019 11:45:02,Voice Line Quality,HUAWEI,MYA-L22,"Android: 6.0, 3.18.19 ",No,MOLY.LR9.W1444.MD.LWTG.MP.V94.P66,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,
+12/11/2019 0:19:02,Voice Line Quality,Xiaomi,Redmi 8,Android: 9; 4.9.112-perf-g085e92d,No,"9_GENNS_PACK-2.227475.1.228438.1,9_GENNS_PACK-2.227475.1.228438.1",System Default,"3gp, aac",User Installed,1.7.11,Good applicazioni but no istriction for change filename registrati with variable.
+12/13/2019 10:32:13,Voice Line Quality,LGE,LG-LS998,Android: 8.0.0; 4.4.78-perf ,No,MPSS.AT.2.5.c1.2-00047-8998_GEN_PACK-1,Voice Line,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.11,"This seems to be recording quite good. Opposing person sounds a little bit low, but I have not uses the Replay Gain yet. 
+
+I have installed 1.6 and been using that to record. Today I've installed 1.7. I was not able to play back audio on old versions of 1.6 until I installed 1.7. 
+
+Everything is good for now. Thank you"
+12/16/2019 6:47:54,Voice Line Quality,HMD Global,Nokia 7.1,Android: 9; 4.4.153-perf ,No,MPSS.AT.3.1-00777-GEN_PACK-1.194128.3.197482.1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.10,Very good application. No ads. Clear sound. Now in new version it is showing saved contact name in out going and incoming call. ⭐⭐⭐⭐⭐
+12/16/2019 6:48:00,Voice Line Quality,HMD Global,Nokia 7.1,Android: 9; 4.4.153-perf ,No,MPSS.AT.3.1-00777-GEN_PACK-1.194128.3.197482.1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.10,Very good application. No ads. Clear sound. Now in new version it is showing saved contact name in out going and incoming call. ⭐⭐⭐⭐⭐
+12/16/2019 6:50:11,Voice Line Quality,HMD Global,Nokia 7.1,Android: 9; 4.4.153-perf ,No,MPSS.AT.3.1-00777-GEN_PACK-1.194128.3.197482.1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.10,Very good application. No ads. Clear sound. Now in new version it is showing saved contact name in out going and incoming call. ⭐⭐⭐⭐⭐
+12/16/2019 19:44:56,Not Working,samsung,SM-G950F,Android: 9; 4.4.111-16626841,No,"G950FXXU5DSH3,G950FXXU5DSH3",Voice Line,"3gp, aac",User Installed,1.7.11,
+12/17/2019 20:30:51,No Opponent Side,Xiaomi,Mi 9 Lite,Android: 9; 4.9.112-perf-gf7ec296,No,"4.0.2.c8-00021-1122_0201_3272028,4.0.2.c8-00021-1122_0201_3272028",Voice Line,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.11,It just records my voice. The caller's voice is not recorded
+12/19/2019 20:37:24,No Opponent Side,OnePlus,ONEPLUS A6013,Android: 9; 4.9.106-perf ,No,MPSS.AT.4.0.c2.15-00007-SDM845_GEN_PACK-1.216073.1.217160.1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.10,
+12/19/2019 23:42:35,No Opponent Side,motorola,Moto G (5S),Android: 8.1.0; 3.18.71-perf-g1c8179f,No,M8937_37.13.03.75R MONTANA_EMEADSDS_CUST,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.6,
+12/20/2019 21:24:37,Mic Quality,Xiaomi,MI 8,Android: 9; 4.9.200-perf-g44bd5bc,Yes,"AT4.0.c2.6-301-1022_0353_720f677,AT4.0.c2.6-301-1022_0353_720f677",Auto (default),"ogg, wav, flac, m4a, mp3, opus",System Preinstalled,1.7.11,My voice is good but the voice of the other is super low
+12/31/2019 0:03:00,Voice Line Quality,HUAWEI,HUAWEI GRA-UL00,"Android: 6.0, 3.10.86-g8fdf1ec",Yes,"21.600.90.00.010,21.600.90.00.010",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,
+12/31/2019 20:49:16,No Opponent Side,samsung,SM-G532F,Android: 6.0.1; 3.18.19-9364647,Yes,G532FXXU1APJ7,Auto (default),"3gp, aac",User Installed,1.7.13,
+1/9/2020 2:15:26,Voice Line Quality,Xiaomi,POCO F1,Android: 9; 4.9.200-perf-g44bd5bc,Yes,"AT4.0.c2.6-301-1021_2208_720f677,AT4.0.c2.6-301-1021_2208_720f677",Auto (default),"ogg, wav, flac, m4a, mp3, opus",System Preinstalled,1.7.13,Thank you for this app! Keep up your excellent work!
+1/9/2020 11:33:48,Mic Quality,ZTE,ZTE Blade A3 Lite,Android: 9; 4.4.147 ,No,FM_BASE_18A_W19.08.2_P17|sc9832e_modem|08-29-2019 10:24:35,Voice Line,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.13,
+1/9/2020 11:34:05,Mic Quality,ZTE,ZTE Blade A3 Lite,Android: 9; 4.4.147 ,No,FM_BASE_18A_W19.08.2_P17|sc9832e_modem|08-29-2019 10:24:35,Voice Line,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.13,
+1/9/2020 12:08:35,No sounds from other side,Xiaomi,Redmi Note 8 Pro,Android: 9 ppr1.180610.011,No,"MOLY.LR13.R1.TC8.SP.V1.P81,MOLY.LR13.R1.TC8.SP.V1.P81",Mic,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.13,
+1/11/2020 6:35:45,Not Working,Xiaomi,Mi A1,Android: 10; 4.9.207-Strix ,No,"953_GEN_PACK-1.182577.1.184854.2,953_GEN_PACK-1.182577.1.184854.2",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.13,
+1/12/2020 23:38:49,Voice Line Quality,Xiaomi,Mi A3,Android: 9; 4.14.98-perf ,Yes,MPSS.AT.4.3.1.c1-00022-NICOBAR_GEN_PACK-1_V006,Auto (default),"ogg, wav, flac, m4a, mp3, opus",System Preinstalled,1.7.13,Works when installed to /system/priv-app
+1/21/2020 19:52:28,Not Working,Xiaomi,Mi A2,Android: 10; 4.4.192-perf ,No,"660_GEN_PACK-1.241702.2.246061.3,660_GEN_PACK-1.241702.2.246061.3",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.13,
+1/25/2020 4:34:33,Not Working,Xiaomi,Redmi Note 8 Pro,Android: 9; 4.14.94 ,No,"MOLY.LR13.R1.TC8.SP.V1.P81,MOLY.LR13.R1.TC8.SP.V1.P81",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.13,Only my voice gets recorded not of the person on other side
+1/28/2020 16:53:57,Voice Line Quality,OnePlus,ONEPLUS A3003,Android: 9; 3.18.120-lineageos-g682d3393adad,Yes,MPSS.TH.2.0.c1.9-00102-M8996FAAAANAZM-1.197095.1.198697.1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",System Preinstalled,1.7.13,
+1/30/2020 0:23:34,Not Working,samsung,SM-G975U1,Android: 10; 4.14.117-17369568,No,G975U1UES2CSL1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.11,It doesn't record my phone calls. 
+1/31/2020 3:26:53,Voice Line Quality,samsung,SM-J600F,Android: 9; 3.18.91-17412839,No,J600FXXU6BSK6,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.13,
+2/3/2020 15:54:34,Voice Line Quality,Sony,SGP621,Android: 6.0.1; 3.4.0-perf-gc14c2d5,No,8974-AAAAANAZQ-00112-61,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.13,
+2/4/2020 21:41:31,Not Working,Xiaomi,MI 8,Android: 10; 4.9.212-perf-gd61ed1a23a2b,Yes,"AT4.0.c2.6-327-0108_2232_c35c8f8,AT4.0.c2.6-327-0108_2232_c35c8f8",Auto (default),"ogg, wav, flac, m4a, mp3, opus",System Preinstalled,1.7.13,Do not record anything. I have tried all sources. No issues on Android 9
+2/4/2020 22:35:05,Voice Line Quality,Sony,G8342,Android: 9; 4.4.148-perf ,No,"8998-8998.gen.prodQ-00278-47,8998-8998.gen.prodQ-00278-47",Voice Recognition,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.41,Работает
+2/5/2020 16:35:58,"Установил,выбрал тему даже и отлично работает.",motorola,moto g(7) plus,Android: 9; 4.4.153-perf-g3860674,No,M636_09.25.02.49R LAKE_WEJPDSDS_CUST,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.13,Отлично работает и никакой рекламы.Спасибо.
+2/7/2020 8:52:30,Voice Line Quality,samsung,SM-G930F,Android: 8.0.0; 3.18.91-15877854-QB27455127,No,G930FXXS7ESK7,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.13,
+2/7/2020 8:52:48,Voice Line Quality,samsung,SM-G930F,Android: 8.0.0; 3.18.91-15877854-QB27455127,No,G930FXXS7ESK7,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.13,
+2/12/2020 14:54:55,Voice Line Quality,LGE,LG-H850,Android: 9; 3.18.113-perf-g225bdd73192-dirty,Yes,96FAAAANAZM-1.163432.2a.168009.1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.13,
+2/14/2020 17:22:41,No Opponent Side,Sony,G8441,Android: 9; 4.4.148-perf ,No,8998-8998.gen.prodQ-00278-47,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.13,
+2/18/2020 15:35:00,No Opponent Side,samsung,SM-N950F,Android: 9; 4.4.111-16983991,No,"N950FXXS9DTA1,N950FXXS9DTA1",Mic,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.13,Only records my side of the conversation 
+2/22/2020 16:48:49,No Opponent Side,Xiaomi,Redmi Note 8,Android: 9; 4.14.98-perf ,No,MPSS.AT.4.3.1-00270-NICOBAR_GEN_PACK-1.223797.1.225109.3,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.13,
+2/22/2020 16:49:04,No Opponent Side,Xiaomi,Redmi Note 8,Android: 9; 4.14.98-perf ,No,MPSS.AT.4.3.1-00270-NICOBAR_GEN_PACK-1.223797.1.225109.3,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.13,
+2/25/2020 11:34:19,Mic Quality,HUAWEI,VOG-L29,Android: 9; 4.9.148,No,"21C20B372S000C000,21C20B372S000C000",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.13,
+2/25/2020 16:33:36,Mic Quality,samsung,SM-J320F,Android: 5.1.1; 3.10.65-9236909,No,J320FXXU0AQI1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.13,
+2/25/2020 23:34:59,Voice Line Quality,samsung,SM-N960F,Android: 10; 4.9.118-17594460,No,"N960FXXU4DSLA,N960FXXU4DSLA",Voice Line,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.13,Doesn't work
+2/26/2020 12:19:38,Voice Line Quality,samsung,SM-N915V,Android: 5.0.1; 3.10.40-4991242,Yes,N915VVRU2BOF2,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.13,"The first screen in the app is misleading. It appears that it is a settings screen where the user could turn on what they want and leave off settings they wish to remain disabled. Then the user may experience frustration in being unable to exit the ""settings"" screen."
+2/27/2020 12:08:17,Voice Line Quality,Motorola,MotoG3,Android: 10; 3.10.108-HybridX-Q,Yes,M8916_2020632.44.03.21.54R,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.13,
+2/27/2020 15:55:25,Voice Line Quality,Sony,E6653,Android: 7.1.1; 3.10.84-perf-g99119bc,No,8994-FAAAANAZQ-00065-37,Voice Line,"3gp, aac",User Installed,1.7.11,funktioniert prima !
+2/28/2020 10:56:03,Mic Quality,samsung s8,SM-G950F,Android: 9; 4.4.111-17263988,No,G950FXXS7DTA6,Mic,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.13,Dont works
+3/4/2020 11:13:24,No Opponent Side,Sony,F8331,Android: 8.0.0; 3.18.66-perf-gd5ec1d77090d,No,8996-8996.gen.prodQ-00070-42,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.13,"I Tryed Encoder / ogg + all sources, then Encoder / aac (Media Recorder) + all sources. It s not working in recording opponent side.
+thank a lot for your app 👍
+I will try rooting and flashing.
+IF you've got ideas and want help me or if I can help you : martin.vr@ikj.fr
+thanks 🙂
+(I want FOSS and not ACR app 😉) "
+3/4/2020 23:31:37,Voice Line Quality,OnePlus,ONEPLUS A5010,Android: 9; 4.4.153-lineage ,Yes,MPSS.AT.2.0.c4.7-00070-8998_GEN_PACK-2.179387.1.214666.1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.13,
+3/8/2020 9:59:43,Voice Line Quality,HMD Global,Nokia 8 Sirocco,Android: 9; 4.4.153-perf ,No,MPSS.AT.2.0.c4-00984-8998_GEN_PACK-1.177141.6,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.13,It works very nice! It would fine to have a way to select more than one file to delete them at once (next to Auto delete time based). I will try to translate to Dutch in the coming days). Thanks for the great app!
+3/16/2020 11:51:18,Voice Line Quality,samsung,SM-A710F,"Android: 7.0, 3.10.61-14301096",No,A710FDXXU2CRL1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.5,
+3/18/2020 11:37:03,No Opponent Side,Sony,H4113,Lineageos 15,Yes,"20181119_BY12O_Daily,20181119_BY12O_Daily",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.13,Previously worked also with opponents audio
+3/21/2020 1:48:36,Mic Quality,Archos,ALBA 5,Android: 7.0; 3.10.65,No,FM_BASE_15C_W17.10.2_P2|sc983x_modem|04-14-2017 19:38:30,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.13,Thanks for developing this really useful app!
+3/21/2020 21:36:06,Voice Line Quality,samsung,SM-G900P,Android: 5.0; 3.4.0-3859396,No,G900PVPU1BOA6,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.3,
+3/23/2020 12:11:27,No My Side,COVID-19,COVID-19,Android: 4.4.111-16903886,Yes,A205YNDVU4ATA1,Voice Recognition,"3gp, aac",System Preinstalled,1.7.11,Fiona 
+3/23/2020 19:49:56,Voice Line Quality,Samsung's the process and the American medical association ,SM-A205YN,Android: 9; 4.4.111-16903886,Yes,A205YNDVU4ATA1,VoIP,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.1z,https://gitlab.com/axet/android-call-recorder/-/archive/master/android-call-recorder-master.zip
+4/3/2020 4:03:24,Voice Line Quality,samsung,SM-G960F,Android: 10; 4.9.118-17633310,No,G960FXXU7DTA3,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.11,
+4/3/2020 4:11:48,Not Working,LGE,LG-H850,Android: 8.0.0; 3.18.140,Yes,MPSS.TH.2.0.c1.4-00070-M8996FAAAANAZM-1.163432.2a.168009.1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.13,Only records my side of conversation tried multible different options
+4/12/2020 10:12:49,Voice Line Quality,samsung,SM-G950F,Android: 9; 4.4.111-17082260,Yes,"G950FXXS8DTC5,G950FXXS8DTC5",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.13,
+4/12/2020 20:46:39,Voice Line Quality,Xiaomi,MI 9,Android: 10; 4.14.175-paranoid,Yes,"1.0.c3-52.3158-1206_0055_1440e9c,1.0.c3-52.3158-1206_0055_1440e9c",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.13,Not recording
+4/13/2020 10:03:14,Voice Line Quality,Xiaomi,Mi A3,Android: 9; 4.14.98-perf ,No,MPSS.AT.4.3.1.c1-00022-NICOBAR_GEN_PACK-1_V006,Voice Line,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.13,Please add support to begin recording after the user picks the call and ends when the user ends the call. No recording for not picked calls. It will save the hassle to delete extra calls.
+4/14/2020 5:27:30,Voice Line Quality,Xiaomi,Redmi Note 5,Android: 10; 4.4.218-rad-x4,Yes,"660_GEN_PACK-1.260989.1.267581.1,660_GEN_PACK-1.260989.1.267581.1",Auto (default),"ogg, wav, flac, m4a, mp3, opus",System Preinstalled,1.7.13,
+4/14/2020 18:38:26,Voice Line Quality,Xiaomi,Redmi 3S,Android: 9; 3.18.140-lineageos-gb8f4525,Yes,"NNS_PACK-1.87716.2.103688.2-V052,NNS_PACK-1.87716.2.103688.2-V052",Auto (default),"ogg, wav, flac, m4a, mp3, opus",System Preinstalled,1.7.13,
+4/14/2020 19:34:41,Mic Quality,samsung,SM-A600FN,Android: 9; 3.18.91-16947210,No,"A600FNXXU4BSI3,A600FNXXU4BSI3",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.13,Good application 
+4/15/2020 14:20:39,Not Working,Xiaomi,Mi A3,Android: 10; 4.14.117-perf ,Yes,MPSS.AT.4.3.1.c1-00022-NICOBAR_GEN_PACK-1.248992.1_V006,Voice Line,"ogg, wav, flac, m4a, mp3, opus",System Preinstalled,1.7.13,Please guide me how to this app working
+4/15/2020 14:45:00,Not Working,samsung,SM-G975F,Android: 10; 4.14.113-18242812,No,"G975FXXU4CTC5,G975FXXU4CTC5",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.13,I am disappointed this application worked well but for some days there are no more recordings ... The only one that works is ACR but it is not open source and I want to support you.
+4/16/2020 19:36:20,Voice Line Quality,Xiaomi,Redmi Note 5,Android: 10; 4.4.218-rad-x4,Yes,"660_GEN_PACK-1.209285.1.210383.1,660_GEN_PACK-1.209285.1.210383.1",Voice Line,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.13,
+4/17/2020 7:01:25,Voice Line Quality,asus,ASUS_X00ID,Android: 9; 3.18.120-perf-geeff191,Yes,"S.JO.3.1-00138-8937_GENNS_PACK-3,S.JO.3.1-00138-8937_GENNS_PACK-3",Auto (default),"ogg, wav, flac, m4a, mp3, opus",System Preinstalled,1.7.13,
+4/18/2020 19:26:45,I believe I have voice line.  my voice is crystal clear but I do not have hd calling so I cannot tell for other end.,samsung,SM-G900T,Android: 9; Resurrection remix,Yes,G900TUVU1GQC2,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.13,this is awesome.  works great under aac as well as other options.
+4/19/2020 3:44:04,Not Working,Xiaomi,Mi A3,Android: 9; 4.14.98-perf ,Yes,MPSS.AT.4.3.1.c1-00022-NICOBAR_GEN_PACK-1_V006,Auto (default),"ogg, wav, flac, m4a, mp3, opus",System Preinstalled,1.7.13,
+4/21/2020 16:51:53,Voice Line Quality,Xiaomi,Redmi 3S,Android: 10; 3.18.124-JDreAm,Yes,MPSS.JO.1.2.c4-00013-8937_GENNS_PACK-1.87716.2.103688.2-V053,Auto (default),"ogg, wav, flac, m4a, mp3, opus",System Preinstalled,1.7.13,На кастом прошивке с рутом (установка программы как модуль magisk) работает без нареканий. 
+4/25/2020 10:58:47,Voice Line Quality,Xiaomi,Mi A1,Android: 10; 4.9.215-Strix ,Yes,"953_GEN_PACK-1.182577.1.184854.2,953_GEN_PACK-1.182577.1.184854.2",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.13,
+4/25/2020 11:19:29,opponent side voice is verylow triedin all  options,Xiaomi,Mi A2,Android: 9; 4.4.153-perf ,No,MPSS.AT.3.1-00777-SDM660_GEN_PACK-1.209285.1.210383.1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.13,"opponent side voice is verylow, cant hear.tried all options"
+4/25/2020 17:38:50,No Opponent Side,samsung,SM-G900T,Android: 10; 3.4.113-lineageos,Yes,G900TUVU1GQC2,Auto (default),"ogg, wav, flac, m4a, mp3, opus",System Preinstalled,1.7.13,"Tried MediaRecorder as well.  Tried using Audio Compatibility patch via Magisk.  Nothing gets ""opponent side"" working.  Probably gonna try Oreo next considering the comments about MediaRecorder and foreground services."
+4/25/2020 22:59:54,see below,samsung,SM-G900T,Android: 10; 3.4.113-lineageos,Yes,G900TUVU1GQC2,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.13,My previous report is now inaccurate your module magically started working after I updated a few BusyBox binaries.  Maybe that's what's going wrong on newer devices.  May update again soon with information on different quality of recording techniques now that it's working but I don't have had calling so maybe not.
+4/28/2020 6:13:55,No Opponent Side,samsung,SM-A307FN,Android: 9; 4.4.177-17077831,No,"A307FNXXU2ATB1,A307FNXXU2ATB1",Mic,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.13,
+4/30/2020 17:48:08,Voice Line Quality,samsung,SM-G965F,Android: 10; 4.9.118-18339721,Yes,G965FXXU8DTC5,Auto (default),"ogg, wav, flac, m4a, mp3, opus",System Preinstalled,1.7.13,Thank you!
+5/1/2020 16:03:01,Not Working,samsung,SM-J330FN,Android: 9; 3.18.91-18126012,No,J330FNXXU3CTC1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.6.44,"Stopped recording sound after I updated to Android 9. Files are being saved but without any sound. Older recordings created before the updated have sound and can be played via the app GUI. I've tried playing with the settings (recording source etc) without any luck. I have another Samsung Android 8 phone which I probably won't be updating because of this, your app is the only obe which doesn't require insane pernissions. Keep up the good work."
+5/6/2020 21:17:02,Voice Line Quality,Xiaomi,Redmi Note 4x,Android: 10; 3.18.140-NotKernel-EOL,Yes,"953_GEN_PACK-1.148143.1.163979.1,953_GEN_PACK-1.148143.1.163979.1",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.13,
+5/6/2020 23:23:59,Voice Line Quality,samsung,SM-N960F,Android: 10; 4.9.118-18063799,Yes,"N960FXXU5DTC9,N960FXXU5DTC9",Auto (default),"ogg, wav, flac, m4a, mp3, opus",System Preinstalled,1.7.13,So far working perfectly for me  
+5/7/2020 10:51:23,Voice Line Quality,Xiaomi,POCO F1,Android: 9; 4.9.218-LawRun*11.P/60hz-L*!!negrroo!!,Yes,"AT4.0.c2.6-272-1114_1838_49ab7ae,AT4.0.c2.6-272-1114_1838_49ab7ae",System RAW,"ogg, wav, flac, m4a, mp3, opus",System Preinstalled,1.7.13,"Hello, can you please add a function to capture audio output manually, i'd like to record system sounds from my phone. You could also add this to your audio recorder application."
+5/8/2020 3:30:15,Not Working,samsung,SM-N975F,Android: 10; 4.14.113-18246528,No,"N975FXXU3CTC7,N975FXXU3CTC7",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.13,
+5/8/2020 12:48:59,No Opponent Side,OnePlus,ONEPLUS A5000,Android: 9; 4.4.153-lineage ,No,MPSS.AT.2.0.c4.7-00070-8998_GEN_PACK-2.179387.1.214666.1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.13,
+5/9/2020 16:35:56,Voice Line Quality,Xiaomi,Redmi Note 7,Android: 10; 4.4.218-OniiChanKernel-Faham-X-7.0 ,Yes,"660_GEN_PACK-1.246061.3.247861.1,660_GEN_PACK-1.246061.3.247861.1",Auto (default),"ogg, wav, flac, m4a, mp3, opus",System Preinstalled,1.7.13,Perfecto
+5/11/2020 8:40:38,Voice Line Quality,Xiaomi,Redmi Note 8,Android: 9.0; 4.14.98-perf ,Yes,MPSS.AT.4.3.1-00270-NICOBAR_GEN_PACK-1.262213.1.269084.1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.13,"Excelente, pero me gustaría que se pudieran sincronizar archivos con Google Drive y guardar archivos .amr. Deseo intentar hacer un  fork de la aplicación. https://github.com/gfrodriguez "
+5/12/2020 23:16:47,Voice Line Quality,motorola,moto g(7),Android: 9; 4.9.112-perf ,Yes,M632_26.100.01.120.01R RIVER_NA_CUST,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.13,
+5/14/2020 2:42:18,Both in and out sound works fine,samsung,SM-G955F,Android: 9; 4.4.111-17264019,Yes,G955FXXS8DTC1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",System Preinstalled,1.7.13,"Only issue i have is being able to create sub folders like by month or name, my older recorder that dosnt work now used to have /""MM YYYY/name - time"" which was perfect, if u get chance would be useful to me and or others  :)"
+5/19/2020 9:02:54,Voice Line Quality,Xiaomi,MI 8 Lite,Android: 10; 4.4.223-Alpaca-v7-20200510-staging/f6f64b48,Yes,"AT31c7-00023-0517_0847_df8b367,AT31c7-00023-0517_0847_df8b367",Voice Line,"ogg, wav, flac, m4a, mp3, opus",System Preinstalled,1.7.13,What does system mixer incall recording do. Do i need to turn it on
+5/21/2020 0:23:43,Mic Quality,LGE,LM-X210,Android: 7.1.2; 3.10.49 ,No,MPSS.JO.3.0.c12-00013-8909_GEN_PACK-1,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.11,
+5/21/2020 11:39:18,Doesn't record,samsung,SM-A705MN,Android: 10; 4.14.117-17976949,No,"A705MNXXU5BTB9,A705MNXXU5BTB9",Auto (default),"3gp, aac",User Installed,1.7.11,Can't record on Android 10
+5/24/2020 0:02:19,Voice Line Quality,Xiaomi,POCOPHONE F1,Android: 10; 4.9.222-perf-Arrow-gae94ca41b,Yes,"AT4.0.c2.6-327-0114_1828_6435443,AT4.0.c2.6-327-0114_1828_6435443",Voice Line,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.13,
+5/24/2020 8:02:13,Voice Line Quality,Xiaomi,Redmi Note 7 Pro,Android: 10; Derpfest,Yes,"150_GEN_PACK-1.239851.1.242272.1,150_GEN_PACK-1.239851.1.242272.1",Auto (default),"ogg, wav, flac, m4a, mp3, opus",System Preinstalled,1.7.13,
+5/24/2020 18:53:57,Voice Line Quality,Fairphone,FP2,Android: 6.0.1; 3.4.0-gcde0e65,Yes,4437.1-FP2-0-08,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.13,
+5/29/2020 17:50:38,Not Working,samsung,SM-G973U,Android: 10; 4.14.117-18242889,No,G973USQU3DTCB,Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.13,Sadly its not working
+5/30/2020 1:27:20,Voice Line Quality,HUAWEI,STK-L21,Android: 10; 4.14.116,No,"21C20B388S000C000,21C20B388S000C000",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.2,
+5/31/2020 22:56:59,Voice Line Quality,Xiaomi,POCO F1,Android: 10; 4.9.223-LawRun*12.Q-L*!!negrroo!! ,Yes,"AT4.0.c2.6-327-0226_2205_6435443,AT4.0.c2.6-327-0226_2205_6435443",Auto (default),"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.13,
+6/2/2020 13:04:10,Voice Line Quality,asus,ASUS_X01BDA,Android: 8.1.0; 4.4.78-perf ,Yes,00766-SDM660_GEN_PACK-1.173484.1,Voice Line,"ogg, wav, flac, m4a, mp3, opus",User Installed,1.7.13,"Magisk call recorder
+"

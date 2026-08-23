@@ -1,0 +1,53 @@
+name: flutter_gsmsip_example
+description: "Example app for flutter_gsmsip - GOSTsimbox Gateway"
+license: NativeMindNONC
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  # Library dependency
+  flutter_gsmsip:
+    path: ../
+
+  cupertino_icons: ^1.0.8
+  provider: ^6.1.2
+  shared_preferences: ^2.2.2
+  flutter_svg: ^2.0.10+1
+  google_fonts: ^6.2.1
+  device_info_plus: ^10.1.0
+  permission_handler: ^11.3.1
+  crypto: ^3.0.3
+  logger: ^2.0.2+1
+  http: ^1.2.1
+  connectivity_plus: ^5.0.2
+  workmanager: ^0.8.0
+  intl: ^0.20.2
+  dartz: ^0.10.1
+  equatable: ^2.0.5
+  get_it: ^7.6.0
+  flutter_local_notifications: ^17.0.0
+  collection: ^1.18.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+# See ../pubspec.yaml for why these overrides exist.
+dependency_overrides:
+  plugin_platform_interface: ^2.1.8
+  flutter_dialer:
+    path: ../../flutter_dialer
+
+flutter:
+  uses-material-design: true
+  generate: true

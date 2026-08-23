@@ -1,0 +1,10 @@
+dist
+dist*
+android-dist
+android_2.10/patch
+android_2.7.1/patch
+android_2.9/patch
+ios-dist
+.vagrant
+.DS_Store
+#*.tar.gz
