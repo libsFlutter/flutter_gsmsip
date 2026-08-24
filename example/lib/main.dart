@@ -1,182 +1,112 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_gsmsip/flutter_gsmsip.dart';
+
+import 'data/example_config_store.dart';
+import 'screens/call_screen.dart';
+import 'screens/dashboard_screen.dart';
+import 'screens/logs_screen.dart';
+import 'screens/settings_screen.dart';
+import 'screens/setup_screen.dart';
+import 'screens/sms_screen.dart';
+import 'theme/app_theme.dart';
 
 void main() {
-  runApp(const GOSTsimboxApp());
+  runApp(const GostSimboxExampleApp());
 }
 
-class GOSTsimboxApp extends StatelessWidget {
-  const GOSTsimboxApp({super.key});
+class GostSimboxExampleApp extends StatelessWidget {
+  const GostSimboxExampleApp({super.key});
 
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'GOSTsimbox Gateway',
-      theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.blue),
-        useMaterial3: true,
-      ),
-      home: const DashboardScreen(),
+      title: 'flutter_gsmsip Example',
+      theme: AppTheme.lightTheme,
+      darkTheme: AppTheme.darkTheme,
+      themeMode: ThemeMode.system,
+      home: const RootShell(),
     );
   }
 }
 
-class DashboardScreen extends StatefulWidget {
-  const DashboardScreen({super.key});
+/// App shell: bottom navigation across the 6 screens that demonstrate
+/// `GatewayService`. On first launch (no saved config found via
+/// [ExampleConfigStore]) opens on Setup instead of Dashboard — see
+/// flows/flutter_gsmsip/sdd-flutter_gsmsip-example/02-specifications.md.
+class RootShell extends StatefulWidget {
+  const RootShell({super.key});
 
   @override
-  State<DashboardScreen> createState() => _DashboardScreenState();
+  State<RootShell> createState() => _RootShellState();
 }
 
-/// Demo of [GatewayService], the SIP<->GSM gateway orchestrator. Device
-/// info (phone number/signal) moved out with `TelephonyService`'s removal —
-/// see flows/sdd-flutter_gsm/04-implementation-log.md Task 11; use
-/// `flutter_gsm`'s `ModemRepository` directly for that.
-class _DashboardScreenState extends State<DashboardScreen> {
-  final GatewayService _gatewayService = GatewayService();
+class _RootShellState extends State<RootShell> {
+  static const _tabs = [
+    _Tab('Setup', Icons.settings_input_antenna_outlined, Icons.settings_input_antenna),
+    _Tab('Dashboard', Icons.dashboard_outlined, Icons.dashboard),
+    _Tab('Settings', Icons.tune_outlined, Icons.tune),
+    _Tab('Call', Icons.call_outlined, Icons.call),
+    _Tab('SMS', Icons.sms_outlined, Icons.sms),
+    _Tab('Logs', Icons.article_outlined, Icons.article),
+  ];
 
-  GatewayStatus? _status;
+  final _configStore = ExampleConfigStore();
+  int _index = 1;
+  bool _resolvedInitialTab = false;
 
   @override
   void initState() {
     super.initState();
-    _initializeServices();
+    _resolveInitialTab();
   }
 
-  Future<void> _initializeServices() async {
-    // Listen to gateway status
-    _gatewayService.statusStream.listen((status) {
-      if (mounted) {
-        setState(() {
-          _status = status;
-        });
-      }
+  Future<void> _resolveInitialTab() async {
+    final config = await _configStore.load();
+    if (!mounted) return;
+    setState(() {
+      _index = config == null ? 0 : 1;
+      _resolvedInitialTab = true;
     });
-
-    // Load configuration
-    final config = await _gatewayService.loadConfiguration();
-    if (config != null) {
-      await _gatewayService.initialize(config);
-    }
   }
+
+  void _goToDashboard() => setState(() => _index = 1);
 
   @override
   Widget build(BuildContext context) {
+    if (!_resolvedInitialTab) {
+      return const Scaffold(body: Center(child: CircularProgressIndicator()));
+    }
+
+    final screens = <Widget>[
+      SetupScreen(onSaved: _goToDashboard),
+      const DashboardScreen(),
+      const SettingsScreen(),
+      const CallScreen(),
+      const SmsScreen(),
+      const LogsScreen(),
+    ];
+
     return Scaffold(
-      appBar: AppBar(
-        title: const Text('GOSTsimbox Gateway'),
-        backgroundColor: Theme.of(context).colorScheme.inversePrimary,
-      ),
-      body: Padding(
-        padding: const EdgeInsets.all(16.0),
-        child: Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: [
-            // Gateway Status Card
-            Card(
-              child: Padding(
-                padding: const EdgeInsets.all(16.0),
-                child: Column(
-                  crossAxisAlignment: CrossAxisAlignment.start,
-                  children: [
-                    const Text('Gateway Status',
-                        style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold)),
-                    const SizedBox(height: 8),
-                    _buildStatusRow(
-                      'Running',
-                      _status?.isRunning ?? false,
-                    ),
-                    _buildStatusRow(
-                      'SIP',
-                      _status?.sipState == SipConnectionState.connected,
-                    ),
-                    _buildStatusRow(
-                      'SMPP',
-                      _status?.smppState == SmppConnectionState.connected,
-                    ),
-                  ],
-                ),
-              ),
+      body: IndexedStack(index: _index, children: screens),
+      bottomNavigationBar: NavigationBar(
+        selectedIndex: _index,
+        onDestinationSelected: (i) => setState(() => _index = i),
+        destinations: [
+          for (final tab in _tabs)
+            NavigationDestination(
+              icon: Icon(tab.icon),
+              selectedIcon: Icon(tab.selectedIcon),
+              label: tab.label,
             ),
-            const SizedBox(height: 16),
-
-            // Controls
-            ElevatedButton(
-              onPressed: _toggleGateway,
-              style: ElevatedButton.styleFrom(
-                backgroundColor:
-                    _status?.isRunning ?? false ? Colors.red : Colors.green,
-                foregroundColor: Colors.white,
-              ),
-              child: Text(_status?.isRunning ?? false ? 'Stop Gateway' : 'Start Gateway'),
-            ),
-            const SizedBox(height: 8),
-            ElevatedButton(
-              onPressed: _makeTestCall,
-              child: const Text('Make Test Call (via SIP)'),
-            ),
-            const SizedBox(height: 8),
-            ElevatedButton(
-              onPressed: _sendTestSms,
-              child: const Text('Send Test SMS'),
-            ),
-          ],
-        ),
-      ),
-    );
-  }
-
-  Widget _buildStatusRow(String label, bool isActive) {
-    return Padding(
-      padding: const EdgeInsets.symmetric(vertical: 4.0),
-      child: Row(
-        mainAxisAlignment: MainAxisAlignment.spaceBetween,
-        children: [
-          Text(label),
-          Container(
-            width: 12,
-            height: 12,
-            decoration: BoxDecoration(
-              color: isActive ? Colors.green : Colors.red,
-              shape: BoxShape.circle,
-            ),
-          ),
         ],
       ),
     );
   }
+}
 
-  Future<void> _toggleGateway() async {
-    if (_status?.isRunning ?? false) {
-      await _gatewayService.stop();
-    } else {
-      final config = await _gatewayService.loadConfiguration();
-      if (config != null) {
-        await _gatewayService.initialize(config);
-        await _gatewayService.start();
-      } else {
-        if (mounted) {
-          ScaffoldMessenger.of(context).showSnackBar(
-            const SnackBar(content: Text('No configuration found')),
-          );
-        }
-      }
-    }
-  }
+class _Tab {
+  final String label;
+  final IconData icon;
+  final IconData selectedIcon;
 
-  Future<void> _makeTestCall() async {
-    final routingId = await _gatewayService.makeCallViaSip('+1234567890');
-    if (!mounted) return;
-    ScaffoldMessenger.of(context).showSnackBar(
-      SnackBar(content: Text(routingId != null ? 'Call initiated: $routingId' : 'Call failed')),
-    );
-  }
-
-  Future<void> _sendTestSms() async {
-    final messageId = await _gatewayService.sendSms('+1234567890', 'Test message from GOSTsimbox');
-    if (!mounted) return;
-    ScaffoldMessenger.of(context).showSnackBar(
-      SnackBar(content: Text(messageId != null ? 'SMS sent: $messageId' : 'SMS failed')),
-    );
-  }
+  const _Tab(this.label, this.icon, this.selectedIcon);
 }
